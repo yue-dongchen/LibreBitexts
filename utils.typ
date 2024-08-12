@@ -1,10 +1,10 @@
-#let parallel-text(..language-versions) = {
+#let parallel-text(left, right) = {
     set par(justify: true)
 
 	grid(
 		columns: (1fr, 1fr),
 		gutter: 11pt,
-		language-versions.at(0),
-		language-versions.at(1)
+		left,
+		right
 	)
 }
