@@ -1,153 +1,12 @@
-Twenty Thousand Leagues Under the Sea
+Twenty Thousand Leagues Under the Sea%%%%%title.
 
+Jules Verne%%%%%author.
 
-					Jules Verne
+PART I.%%%%%h1.
 
+CHAPTER I: A SHIFTING REEF%%%%%h2.
 
-
-
-
-1911
-
-
-
-
-
-Exported from Wikisource on August 11, 2024
-
-
-
-
-
-Twenty Thousand
-
-Leagues Under the Sea.
-
-
-
-
-
-Chapters (not listed in original)
-
-Part I Chapter I
-
-Chapter II
-
-Chapter III
-
-Chapter IV
-
-Chapter V
-
-Chapter VI
-
-Chapter VII
-
-Chapter VIII
-
-Chapter IX
-
-Chapter X
-
-Chapter XI
-
-Chapter XII
-
-Chapter XIII
-
-Chapter XIV
-
-Chapter XV
-
-Chapter XVI
-
-Chapter XVII
-
-Chapter XVIII
-
-Chapter XIX
-
-Chapter XX
-
-Chapter XXI
-
-Chapter XXII
-
-Chapter XXIII
-
-
-
-
-
-Part II Chapter I
-
-Chapter II
-
-Chapter III
-
-Chapter IV
-
-Chapter V
-
-Chapter VI
-
-Chapter VII
-
-Chapter VIII
-
-Chapter IX
-
-Chapter X
-
-Chapter XI
-
-Chapter XII
-
-Chapter XIII
-
-Chapter XIV
-
-Chapter XV
-
-Chapter XVI
-
-Chapter XVII
-
-Chapter XVIII
-
-Chapter XIX
-
-Chapter XX
-
-Chapter XXI
-
-Chapter XXII
-
-Chapter XXIII
-
-
-
-
-
-Twenty Thousand
-
-Leagues Under the Sea.
-
-
-
-
-
-PART I.
-
-
-
-CHAPTER I
-
-A SHIFTING REEF
-
-
-
-HE year 1866 was signalized by a remarkable incident, a mysterious and inexplicable phenomenon, which doubtless no one has yet forgotten. Not to mention rumors which agitated the maritime population, and excited the public mind, even in the interior of continents, seafaring men were particularly excited. Merchants, common sailors, captains of vessels, skippers, both of Europe and America, naval officers of all countries, and the governments of several states on the two continents, were deeply interested in the matter.
+The year 1866 was signalized by a remarkable incident, a mysterious and inexplicable phenomenon, which doubtless no one has yet forgotten. Not to mention rumors which agitated the maritime population, and excited the public mind, even in the interior of continents, seafaring men were particularly excited. Merchants, common sailors, captains of vessels, skippers, both of Europe and America, naval officers of all countries, and the governments of several states on the two continents, were deeply interested in the matter.
 
 For some time past, vessels had been met by "an enormous thing," a long object, spindle-shaped, occasionally phosphorescent, and infinitely larger and more rapid in its movements than a whale.
 
@@ -189,15 +48,7 @@ Upon this imaginary creature rested the responsibility of all these shipwrecks, 
 
 Now, it was the "monster" who, justly or unjustly, was accused of their disappearance, and, thanks to it, communication between the different continents became more and more dangerous. The public demanded peremptorily that the seas should at any price be relieved from this formidable cetacean.
 
-
-
-
-
-CHAPTER II
-
-PRO AND CON
-
-
+CHAPTER II: PRO AND CON%%%%%h2.
 
 At the period when these events took place, I had just returned from a scientific research in the territory of Nebraska, in the United States. In virtue of my office as Assistant Professor in the Museum of Natural History in Paris, the French government had attached me to that expedition. After six months in Nebraska, I arrived in New York toward the end of March, laden with a precious collection. My departure for France was fixed for the first days in May. Meanwhile, I was occupying myself in classifying my mineralogical, botanical, and zoölogical riches, when the accident happened to the Scotia.
 
@@ -251,15 +102,7 @@ Sir: If you will consent to join the Abraham Lincoln in this expedition, the gov
 
 "Secretary of Marine."
 
-
-
-
-
-CHAPTER III
-
-I FORM MY RESOLUTION
-
-
+CHAPTER III: I FORM MY RESOLUTION%%%%%h2.
 
 Three seconds before the arrival of J. B. Hobson's letter, I no more thought of pursuing the unicorn than of attempting the passage of the North Sea. Three seconds after reading the letter of the Honorable Secretary of Marine, I felt that my true vocation, the sole end of my life, was to chase this disturbing monster, and purge it from the world.
 
@@ -349,9 +192,7 @@ Six bells struck, the pilot got into his boat, and rejoined the little schooner 
 
 
 
-CHAPTER IV
-
-NED LAND
+CHAPTER IV: NED LAND%%%%%h2.
 
 
 
@@ -429,9 +270,7 @@ The harpooner looked at me fixedly for some moments before answering, struck his
 
 
 
-CHAPTER V
-
-AT A VENTURE
+CHAPTER V: AT A VENTURE%%%%%h2.
 
 
 
@@ -497,15 +336,7 @@ Conseil had not time to finish his compliment. In the midst of general silence a
 
 "Look out there! the very thing we are looking for—on our weather beam!"
 
-
-
-
-
-CHAPTER VI
-
-AT FULL STEAM
-
-
+CHAPTER VI: AT FULL STEAM%%%%%h2.
 
 At this cry the whole ship's crew hurried toward the harpooner commander, officers, masters, sailors, cabin-boys; even the engineers left their engines, and the stokers their furnaces.
 
@@ -651,15 +482,7 @@ The frigate approached noiselessly, stopped at two cables' length from the anima
 
 At this moment, leaning on the forecastle bulwark, I saw below me Ned Land grappling the martingale in one hand, brandishing his terrible harpoon in the other, scarcely twenty feet from the motionless animal. Suddenly his arm straightened, and the harpoon was thrown; I heard the sonorous stroke of the weapon, which seemed to have struck a hard body. The electric light went out suddenly, and two enormous waterspouts broke over the bridge of the frigate, rushing like a torrent from stem to stern, over-throwing men, and breaking the lashing of the spars. A fearful shock followed, and, thrown over the rail without having time to stop myself, I fell into the sea.
 
-
-
-
-
-CHAPTER VII
-
-AN UNKNOWN SPECIES OF WHALE
-
-
+CHAPTER VII: AN UNKNOWN SPECIES OF WHALE%%%%%h2.
 
 This unexpected fall so stunned me that I have no clear recollection of my sensations at the time. I was at first drawn down to a depth of about twenty feet. I am a good swimmer (though without pretending to rival Byron or Edgar Poe, who were masters of the art), and in that plunge I did not lose my presence of mind. Two vigorous strokes brought me to the surface of the water. My first care was to look for the frigate. Had the crew seen me disappear? Had the Abraham Lincoln veered round? Would the captain put out a boat? Might I hope to be saved?
 
@@ -787,15 +610,7 @@ Happily the sinking movement ceased. Suddenly a noise, like iron works violently
 
 Some moments after, eight strong men with masked faces appeared noiselessly, and drew us down into their formidable machine.
 
-
-
-
-
-CHAPTER VIII
-
-MOBILIS IN MOBILI
-
-
+CHAPTER VIII: MOBILIS IN MOBILI%%%%%h2.
 
 This forcible abduction, so roughly carried out, was accomplished with the rapidity of lightning. I shivered all over. Whom had we to deal with? No doubt some new sort of pirates, who explored the sea in their own way.
 
@@ -915,15 +730,7 @@ However, everything has an end, everything passes away, even the hunger of peopl
 
 My two companions stretched themselves on the cabin carpet, and were soon sound asleep. For my own part, too many thoughts crowded my brain, too many insoluble questions pressed upon me, too many fancies kept my eyes half open. Where were we? What strange power carried us on? I felt—or rather fancied I felt—the machine sinking down to the lowest beds of the sea. Dreadful nightmares beset me; I saw in these mysterious asylums a world of unknown animals, among which this submarine boat seemed to be of the same kind, living, moving, and formidable as they. Then my brain grew calmer, my imagination wandered into vague unconsciousness, and I soon fell into a deep sleep.
 
-
-
-
-
-CHAPTER IX
-
-NED LAND'S TEMPERS
-
-
+CHAPTER IX: NED LAND'S TEMPERS%%%%%h2.
 
 How long we slept I do not know; but our sleep must have lasted long, for it rested us completely from our fatigues. I woke first. My companions had not moved, and were still stretched in their corner.
 
@@ -983,15 +790,7 @@ Conseil was already trying to unclasp the harpooner's hand from his half-suffoca
 
 "Be quiet, Master Land; and you, professor, will you be so good as to listen to me?"
 
-
-
-
-
-CHAPTER X
-
-THE MAN OF THE SEAS
-
-
+CHAPTER X: THE MAN OF THE SEAS%%%%%h2.
 
 It was the commander of the vessel who thus spoke.
 
@@ -1203,15 +1002,7 @@ I entered the captain's room; it had a severe, almost a monkish, aspect. A small
 
 Captain Nemo pointed to a seat. "Be so good as to sit down," he said. I seated myself, and he began thus:
 
-
-
-
-
-CHAPTER XI
-
-ALL BY ELECTRICITY.
-
-
+CHAPTER XI: ALL BY ELECTRICITY.%%%%%h2.
 
 "Sir," said Captain Nemo, showing me the instruments hanging on the walls of his room, "here are the contrivances required for the navigation of the Nautilus. Here, as in the drawing-room, I have them always under my eyes, and they indicate my position and exact direction in the middle of the ocean. Some are known to you, such as the thermometer, which gives the internal temperature of the Nautilus; the baromter, which indicates the weight of the air and foretells the changes of the weather; the hygrometer, which marks the dryness of the atmosphere; the storm-glass, the contents of which, by decomposing, announce the approach of tempests; the compass, which guides my course; the sextant, which shows the latitude by the altitude of the sun; chronometers, by which I calculate the longitude; and glasses for day and night, which I use to examine the points of the horizon when the Nautilus rises to the surface of the waves."
 
@@ -1287,15 +1078,7 @@ At the bottom was a fourth partition, that separated this office from the engine
 
 "Not at all, professor," replied the captain with some hesitation; "since you may never leave this submarine boat. Come into the saloon; it is our usual study, and there you will learn all you want to know about the Nautilus."
 
-
-
-
-
-CHAPTER XII
-
-SOME FIGURES
-
-
+CHAPTER XII: SOME FIGURES%%%%%h2.
 
 A moment after we were seated on a divan in the saloon smoking. The captain showed me a sketch that gave the plan, section, and elevation of the Nautilus. Then he began his description in these words:
 
@@ -1393,15 +1176,7 @@ I had nothing to object to these reasonings.
 
 I stared at the singular person who spoke thus. Was he playing upon my credulity? The future would decide that.
 
-
-
-
-
-CHAPTER XIII
-
-THE BLACK RIVER
-
-
+CHAPTER XIII: THE BLACK RIVER%%%%%h2.
 
 The portion of the terrestrial globe which is covered by water is estimated at upward of eighty millions of acres. This fluid mass comprises two billions, two hundred and fifty millions of cubic miles, forming a spherical body of a diameter of sixty leagues, the weight of which would be three quintillions of tons. To comprehend the meaning of these figures, it is necessary to observe that a quintillion is to a billion as a billion is to unity; in other words, there are as many billions in a quintillion as there are units in a billion. This mass of fluid is equal to about the quantity of water which would be discharged by all the rivers of the earth in forty thousand years.
 
@@ -1481,15 +1256,7 @@ Ned Land and Conseil returned to their cabin, and I retired to my chamber. My di
 
 I passed the evening reading, writing, and thinking. Then sleep overpowered me, and I stretched myself on my couch of zostera, and slept profoundly, while the Nautilus was gliding rapidly through the current of the Black River.
 
-
-
-
-
-CHAPTER XIV
-
-A NOTE OF INVITATION
-
-
+CHAPTER XIV: A NOTE OF INVITATION%%%%%h2.
 
 The next day was the 9th of November. I awoke after a long sleep of twelve hours. Conseil came, according to custom, to know "how had I passed the night," and to offer his services. He had left his friend the Canadian sleeping like a man who had never done anything else all his life. I let the worthy fellow chatter as he pleased, without caring to answer him. I was preoccupied by the absence of the captain during our sitting of the day before, and hoping to see him to-day.
 
@@ -1617,15 +1384,7 @@ I did honor to the repast. It was composed of several kinds of fish, and slices 
 
 Captain Nemo then led me aft; and in passing before Ned and Conseil's cabin, I called my two companions, who followed immediately. We then came to a kind of cell near the machinery-room, in which we were to put on our walking-dress.
 
-
-
-
-
-CHAPTER XV
-
-A WALK ON THE BOTTOM OF THE SEA
-
-
+CHAPTER XV: A WALK ON THE BOTTOM OF THE SEA%%%%%h2.
 
 This cell was, to speak correctly, the arsenal and wardrobe of the Nautilus. A dozen diving apparatus hung from the partition, waiting our use.
 
@@ -1689,15 +1448,7 @@ At this depth I could still see the rays of the sun, though feebly; to their int
 
 "It is the forest of the island of Crespo," thought I; and I was not mistaken.
 
-
-
-
-
-CHAPTER XVI
-
-A SUBMARINE FOREST
-
-
+CHAPTER XVI: A SUBMARINE FOREST%%%%%h2.
 
 We had at last arrived on the borders of this forest, doubtless one of the finest of Captain's Nemo's immense domains. He looked upon it as his own, and considered he had the same right over it that the first men had in the first days of the world. And, indeed, who would have disputed with him the possession of this submarine property? What other hardier pioneer would come, hatchet in hand, to cut down the dark copses?
 
@@ -1747,15 +1498,7 @@ My blood froze in my veins as I recognized two formidable sharks which threatene
 
 Happily the voracious creatures do not see well. They passed without seeing us, brushing us with their brownish fins, and we escaped by a miracle from a danger certainly greater than meeting a tiger full-face in the forest. Half an hour after, guided by the electric light, we reached the Nautilus. The outside door had been left open, and Captain Nemo closed it as soon as we had entered the first cell. He then pressed a knob. I heard the pumps working in the midst of the vessel. I felt the water sinking from around me, and in a few moments the cell was entirely empty. The inside door then opened, and we entered the vestry. There our diving-dress was taken off, not without some trouble; and, fairly worn out from want of food and sleep, I returned to my room, in great wonder at this surprising excursion at the bottom of the sea.
 
-
-
-
-
-CHAPTER XVII
-
-FOUR THOUSAND LEAGUES UNDER THE PACIFIC
-
-
+CHAPTER XVII: FOUR THOUSAND LEAGUES UNDER THE PACIFIC%%%%%h2.
 
 The next morning, the 18th of November, I had quite recovered from my fatigues of the day before, and I went up on to the platform, just as the second lieutenant was uttering his daily phrase.
 
@@ -1809,15 +1552,7 @@ What a scene! We were dumb; our hearts beat fast before this shipwreck, taken as
 
 The Nautilus, turning, went round the submerged vessel, and I read on the stern The Florida, Sunderland.
 
-
-
-
-
-CHAPTER XVIII
-
-VANIKORO
-
-
+CHAPTER XVIII: VANIKORO%%%%%h2.
 
 This terrible spectacle was the forerunner of the series of maritime catastrophes that the Nautilus was destined to meet with in its route. As long as it went through more frequented waters, we often saw the hulls of shipwrecked vessels that were rotting in the depths, and, deeper down, cannons, bullets, anchors, chains, and a thousand other iron materials eaten up by rust. On the 11th of December, we sighted the Pomotou Islands, the old "dangerous group" of Bougainville, that extend over a space of 500 leagues at E. S. E. to W. N. W., from the Island Ducie to that of Lazareff. This group covers an area of 370 square leagues, and it is formed of sixty groups of islands, among which the Gambier group is remarkable, over which France exercises sway. These are coral islands, slowly raised, but continuous, created by the daily work of polypi. Then this new island will be joined later on to the neighboring groups, and a fifth continent will stretch from New Zealand and New Caledonia, and from thence to the Marquesas.
 
@@ -1941,15 +1676,7 @@ Captain Nemo showed me a tin-plate box, stamped with the French arms, and corrod
 
 "Ah! it is a fine death for a sailor!" said Captain Nemo, at last. "A coral tomb makes a quiet grave; and I trust that I and my comrades will find no other."
 
-
-
-
-
-CHAPTER XIX
-
-TORRES STRAITS
-
-
+CHAPTER XIX: TORRES STRAITS%%%%%h2.
 
 During the night of the 27th of December, the Nautilus left the shores of Vanikoro with great speed. Her course was southwesterly, and in three days she had gone over the 750 leagues that separated it from La Perouse's group and the southeast point of Papua.
 
@@ -2051,15 +1778,7 @@ Ned Land could not restrain his joy. He was like a prisoner that had escaped fro
 
 At half-past eight the Nautilus' boat ran softly aground, on a heavy sand, after having happily passed the coral reef that surrounds the island of Gilboa.
 
-
-
-
-
-CHAPTER XX
-
-A FEW DAYS ON LAND
-
-
+CHAPTER XX: A FEW DAYS ON LAND%%%%%h2.
 
 I was much impressed on touching land. Ned Land tried the soil with his feet, as if to take possession of it. However, it was only two months before that we had become, according to Captain Nemo, "passengers on board the Nautilus," but, in reality, prisoners of its commander.
 
@@ -2213,15 +1932,7 @@ Indeed, the dinner was excellent. Two wood-pigeons completed this extraordinary 
 
 Just then a stone fell at our feet, and cut short the harpooner's proposition.
 
-
-
-
-
-CHAPTER XXI
-
-CAPTAIN NEMO'S THUNDERBOLT
-
-
+CHAPTER XXI: CAPTAIN NEMO'S THUNDERBOLT%%%%%h2.
 
 We looked at the edge of the forest without rising, my hand stopping in the action of putting it to my mouth. Ned Land's completing its office.
 
@@ -2437,15 +2148,7 @@ Meanwhile, the exasperated Papuans had beaten a retreat, paralyzed with terror. 
 
 But, at this moment, the Nautilus, raised by the last waves of the tide, quitted her coral bed exactly at the fortieth minute fixed by the captain. Her screw swept the waters slowly and majestically. Her speed increased gradually, and sailing on the surface of the ocean, she quitted safe and sound the dangerous passes of the Straits of Torres.
 
-
-
-
-
-CHAPTER XXII
-
-"ÆGRI SOMNIA"
-
-
+CHAPTER XXII: "ÆGRI SOMNIA"%%%%%h2.
 
 The following day, 10th January, the Nautilus continued her course between two seas, but with such remarkable speed that I could not estimate it at less than thirty-five miles an hour. The rapidity of her screw was such that I could neither follow nor count its evolutions. When I reflected that this marvelous electric agent, after having afforded motion, heat, and light to the Nautilus, still protected her from outward attack, and transformed her into an ark of safety which no profane hand might touch without being thunderstricken, my admiration was unbounded, and from the structure it extended to the engineer who had called it into existence.
 
@@ -2537,15 +2240,7 @@ Just then, the luminous globe that lighted the cell went out, and left us in tot
 
 I then heard the panels shut. The undulations of the sea, which caused a slight rolling motion, ceased. Had the Nautilus quitted the surface of the ocean? Had it gone back to the motionless bed of water? I tried to resist sleep. It was impossible. My breathing grew weak. I felt a mortal cold freeze my stiffened and half-paralyzed limbs. My eyelids, like leaden caps, fell over my eyes. I could not raise them; a morbid sleep, full of hallucinations, bereft me of my being. Then the visions disappeared, and left me in complete insensibility.
 
-
-
-
-
-CHAPTER XXIII
-
-THE CORAL KINGDOM
-
-
+CHAPTER XXIII: THE CORAL KINGDOM%%%%%h2.
 
 The next day I woke with my head singularly clear. To my great surprise I was in my own room. My companions, no doubt, had been reinstated in their cabin, without having perceived it any more than I. Of what had passed during the night they were as ignorant as I was, and to penetrate this mystery I only reckoned upon the chances of the future.
 
@@ -2677,19 +2372,9 @@ As soon as I had changed my clothes, I went up on to the platform, and, a prey t
 
 "Yes, sir, of sharks and men," gravely replied the captain.
 
+PART II.%%%%%h1.
 
-
-
-
-PART II.
-
-CHAPTER I
-
-THE INDIAN OCEAN
-
-
-
-
+CHAPTER I: THE INDIAN OCEAN%%%%%h2.
 
 E now come to the second part of our journey under the sea. The first ended with the moving scene in the coral cemetery, which left such a deep impression on my mind. Thus, in the midst of this great sea, Captain Nemo's life was passing even to his grave, which he had prepared in one of its deepest abysses. There, not one of the ocean's monsters could trouble the last sleep of the crew of the Nautilus, of those friends riveted to each other in death as in life. "Nor any man either," had added the captain. Still the same fierce, implacable defiance toward human society!
 
@@ -2747,15 +2432,7 @@ Conseil could not believe his eyes, and questioned me as to the cause of this st
 
 Toward midnight the sea suddenly resumed its usual color; but behind us, even to the limits of the horizon, the sky reflected the whitened waves, and for a long time seemed impregnated with the vague glimmerings of an aurora borealis.
 
-
-
-
-
-CHAPTER II
-
-A NOVEL PROPOSAL OF CAPTAIN NEMO'S
-
-
+CHAPTER II: A NOVEL PROPOSAL OF CAPTAIN NEMO'S%%%%%h2.
 
 On the 28th of February, when at noon the Nautilus came to the surface of the sea, in 9° 4′ north latitude, there was land in sight about eight miles to westward. The first thing I noticed was a range of mountains about two thousand feet high, the shapes of which were most capricious. On taking the bearings, I knew that we were nearing the island of Ceylon, the pearl which hangs from the lobe of the Indian Peninsula.
 
@@ -2871,15 +2548,7 @@ Ned Land had a way of saying "seize" which made my blood run cold.
 
 "If you, sir, mean to face the sharks, I do not see why your faithful servant should not face them with you."
 
-
-
-
-
-CHAPTER III
-
-A PEARL OF TEN MILLIONS
-
-
+CHAPTER III: A PEARL OF TEN MILLIONS%%%%%h2.
 
 The next morning at four o'clock I was awakened by the steward, whom Captain Nemo had placed at my service. I rose hurriedly, dressed, and went into the saloon. Captain Nemo was awaiting me.
 
@@ -3013,15 +2682,7 @@ Two conclusions I must inevitably draw from it—one bearing upon the unparallel
 
 When I made this observation to him, he answered in a slightly moved tone, "That Indian, sir, is an inhabitant of an oppressed country; and I am still, and shall be, to my last breath, one of them!"
 
-
-
-
-
-CHAPTER IV
-
-THE RED SEA
-
-
+CHAPTER IV: THE RED SEA%%%%%h2.
 
 In the course of the day of the 29th of January, the island of Ceylon disappeared under the horizon, and the Nautilus, at a speed of twenty miles an hour, slid into the labyrinth of canals which separate the Maldives from the Laccadives. It coasted even the island of Kiltan, a land originally madreporic, discovered by Vasco de Gama in 1499, and one of the nineteen principal islands of the Laccadive Archipelago, situated between 10° and 14° 30′ north latitude, and 69° 50′ 72″ east longitude. We had made 16,220 miles, or 7,500 (French) leagues, from our starting-point in the Japanese seas.
 
@@ -3185,15 +2846,7 @@ Captain Nemo did not reply. After some minutes' silence he continued: "You were 
 
 "Chance and reasoning, sir; and by reasoning even more than by chance. Not only does this passage exist, but I have profited by it several times. Without that I should not have ventured this day into the impassable Red Sea. I noticed that in the Red Sea and in the Mediterranean there existed a certain number of fishes of a kind perfectly identical—ophidia, fiatoles, girelles, and exocœti. Certain of that fact, I asked myself, was it possible that there was no communication between the two seas? If there was, the subterranean current must necesssarily run from the Red Sea to the Mediterranean, from the sole cause of difference of level. I caught a large number of fishes in the neighborhood of Suez. I passed a copper ring through their tails, and threw them back into the sea. Some months later, on the coast of Syria, I caught some of my fish ornamented with the ring. Thus the communication between the two was proved. I then sought for it with my Nautilus; I discovered it, ventured into it, and before long, sir, you too will have passed through my Arabian Tunnel!"
 
-
-
-
-
-CHAPTER V
-
-THE ARABIAN TUNNEL
-
-
+CHAPTER V: THE ARABIAN TUNNEL%%%%%h2.
 
 That same evening, in 21° 30′ north latitude, the Nautilus floated on the surface of the sea, approaching the Arabian coast. I saw Djeddah, the most important counting-house of Egypt, Syria, Turkey, and India. I distinguished clearly enough its buildings, the vessels anchored at the quays, and those whose draught of water obliged them to anchor in the roads. The sun, rather low on the horizon, struck full on the houses of the town, bringing out their whiteness. Outside, some wooden cabins, and some made of reeds, showed the quarter inhabited by the Bedouins. Soon Djeddah was shut out from view by the shadows of night, and the Nautilus found herself under water slightly phosphorescent.
 
@@ -3327,15 +2980,7 @@ At thirty-five minutes past ten, Captain Nemo quitted the helm; and, turning to 
 
 In less than twenty minutes, the Nautilus, carried along by the torrent, had passed through the Isthmus of Suez.
 
-
-
-
-
-CHAPTER VI
-
-THE GRECIAN ARCHIPELAGO
-
-
+CHAPTER VI: THE GRECIAN ARCHIPELAGO%%%%%h2.
 
 The next day, the 12th of February, at the dawn of day, the Nautilus rose to the surface. I hastened to the platform. Three miles to the south, the dim outline of Pelusium was to be seen. A torrent had carried us from one sea to the other. About seven o'clock Ned and Conseil joined me.
 
@@ -3555,15 +3200,7 @@ An order was given; the Nautilus tacked about and left the furnace it could not 
 
 The next day, the 16th of February, we left the basin which, between Rhodes and Alexandria, is reckoned about 1,500 fathoms in depth, and the Nautilus, passing some distance from Cerigo, quitted the Grecian Archipelago, after having doubled Cape Matapan.
 
-
-
-
-
-CHAPTER VII
-
-THE MEDITERRANEAN IN FORTY-EIGHT HOURS
-
-
+CHAPTER VII: THE MEDITERRANEAN IN FORTY-EIGHT HOURS%%%%%h2.
 
 The Mediterranean, the blue sea par excellence, "the great sea" of the Hebrews, "the sea" of the Greeks, the "mare nostrum" of the Romans, bordered by orange trees, aloes, cacti, and sea-pines; embalmed with the perfume of the myrtle, surrounded by rude mountains, saturated with pure and transparent air, but incessantly worked by underground fires, a perfect battle field in which Neptune and Pluto still dispute the empire of the world!
 
@@ -3617,15 +3254,7 @@ The Nautilus having now passed the high bank in the Lybian Straits returned to t
 
 On the 18th of February, about three o'clock in the morning, we were at the entrance of the Straits of Gibraltar. There existed two currents—an upper one, long since recognized, which conveys the waters of the ocean into the basin of the Mediterranean; and a lower counter-current, which reasoning has now shown to exist. Indeed, the volume of water in the Mediterranean, incessantly added to by the waves of the Atlantic, and by rivers falling into it, would each year raise the level of this sea, for its evaporation is not sufficient to restore the equilibrium. As it is not so, we must necessarily admit the existence of an under-current, which empties into the basin of the Atlantic, through the Straits of Gibraltar, the surplus waters of the Mediterranean. A fact, indeed; and it was this counter-current by which the Nautilus profited. It advanced rapidly by the narrow pass. For one instant I caught a glimpse of the beautiful ruins of the temple of Hercules, buried in the ground, according to Pliny, and with the low island which supports it; and a few minutes later we were floating on the Atlantic.
 
-
-
-
-
-CHAPTER VIII
-
-VIGO BAY
-
-
+CHAPTER VIII: VIGO BAY%%%%%h2.
 
 The Atlantic! a vast sheet of water, whose superficial area covers twenty-five millions of square miles, the length of which is nine thousand miles, with a mean breadth of two thousand seven hundred—an ocean whose parallel winding shores embrace an immense circumference, watered by the largest rivers of the world, the St Lawrence, the Mississippi, the Amazon, the Plata, the Orinoco, the Niger, the Senegal, the Elbe, the Loire, and the Rhine, which carry water from the most civilized, as well as from the most savage countries! Magnificent field of water, incessantly plowed by vessels of every nation, sheltered by the flags of every nation, and which terminates in those two terrible points so dreaded by mariners, Cape Horn, and the Cape of Tempests!
 
@@ -3759,15 +3388,7 @@ I had no sooner expressed this regret than I felt that it must have wounded Capt
 
 Captain Nemo stopped at these last words regretting perhaps that he had spoken so much. But I had guessed that, whatever the motive which had forced him to seek independence under the sea, it had left him still a man, that his heart still beat for the sufferings of humanity, and that his immense charity was for oppressed races as well as individuals. And I then understood for whom those millions were destined, which were forwarded by Captain Nemo when the Nautilus was cruising in the waters of Crete.
 
-
-
-
-
-CHAPTER IX
-
-A VANISHED CONTINENT
-
-
+CHAPTER IX: A VANISHED CONTINENT%%%%%h2.
 
 The next morning, the 19th of February, I saw the Canadian enter my room. I expected this visit. He looked very disappointed.
 
@@ -3881,15 +3502,7 @@ While I was trying to fix in my mind every detail of this grand landscape Captai
 
 We descended the mountain rapidly, and the mineral forest once passed, I saw the lantern of the Nautilus shining like a star. The captain walked straight to it, and we got on board as the first rays of light whitened the surface of the ocean.
 
-
-
-
-
-CHAPTER X
-
-THE SUBMARINE COAL-MINES
-
-
+CHAPTER X: THE SUBMARINE COAL-MINES%%%%%h2.
 
 The next day, the 20th of February, I awoke very late; the fatigues of the previous night had prolonged my sleep until eleven o'clock. I dressed quickly and hastened to find the course the Nautilus was taking. The instruments showed it to be still toward the south, with a speed of twenty miles an hour and a depth of fifty fathoms.
 
@@ -3983,15 +3596,7 @@ I approached, and was bound to believe my own eyes. There, at a hole bored in on
 
 At every turn of the path we were following, the lake appeared in all its length and breadth. The lantern lit up the whole of its peaceable surface which knew neither ripple nor wave. The Nautilus remained perfectly immovable. On the platform, and on the mountain, the ship's crew were working like black shadows clearly carved against the luminous atmosphere. We were now going round the highest crest of the first layers of rock which upheld the roof. I then saw that bees were not the only representatives of the animal kingdom in the interior of the volcano. Birds of prey hovered here and there in the shadows, or fled from their nests on the top of the rocks. There were sparrow-hawks with white breasts, and kestrels, and down the slopes scampered, with their long legs, several fine fat bustards. I leave anyone to imagine the covetousness of the Canadian at the sight of this savory game, and whether he did not regret having no gun. But he did his best to replace the lead by stones, and after several fruitless attempts, he succeeded in wounding a magnificent bird. To say that he risked his life twenty times before reaching it, is but the truth; but he managed so well that the creature joined the honey cakes in his bag. We were now obliged to descend toward the shore, the crest becoming impracticable. Above us the crater seemed to gape like the mouth of a well. From this place the sky could be clearly seen, and clouds, dissipated by the west wind, leaving behind them, even on the summit of the mountain, their misty remnants—certain proof that they were only moderately high, for the volcano did not rise more than eight hundred feet above the level of the ocean. Half an hour after the Canadian's last exploit we had regained the inner shore. Here the flora was represented by large carpets of marine crystal, a little umbelliferous plant very good to pickle, which also bears the name of pierce-stone and sea-fennel. Conseil gathered some bundles of it. As to the fauna, it might be counted by thousands of Crustacea of all sorts, lobsters, crabs, palæmons, spider crabs, chameleon shrimps, and a large number of shells, rockfish, and limpets. Three-quarters of an hour later, we had finished our circuitous walk, and were on board. The crew had just finished loading the sodium, and the Nautilus could have left that instant. But Captain Nemo gave no order. Did he wish to wait until night, and leave the submarine passage secretly? Perhaps so. Whatever it might be, the next day, the Nautilus, having left its port, steered clear of all land at a few yards beneath the waves of the Atlantic.
 
-
-
-
-
-CHAPTER XI
-
-THE SARGASSO SEA
-
-
+CHAPTER XI: THE SARGASSO SEA%%%%%h2.
 
 That day the Nautilus crossed a singular part of the Atlantic Ocean. No one can be ignorant of the existence of a current of warm water, known by the name of the Gulf Stream. After leaving the Gulf of Mexico, about the twenty-fifth degree of north latitude, this current divides into two arms, the principal one going toward the coast of Ireland and Norway, while the second bends to the south about the height of the Azores; then, touching the African shore, and describing a lengthened oval, returns to the Antilles. This second arm—it is rather a collar than an arm—surrounds with its circles of warm water that portion of the cold, quiet, immovable ocean called the Sargasso Sea, a perfect lake in the open Atlantic: it takes no less than three years for the great current to pass round it. Such was the region the Nautilus was now visiting, a perfect meadow, a close carpet of seaweed, fucus, and tropical berries, so thick and so compact that the stem of a vessel could hardly tear its way through it. And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves. The name Sargasso comes from the Spanish word "sargazzo" which signifies kelp. This kelp or varech, or berry-plant, is the principal formation of this immense bank. And this is the reason, according to the learned Maury, the author of "The Physical Geography of the Globe," why these hydrophytes unite in the peaceful basin of the Atlantic. The only explanation which can be given, he says, seems to me to result from the experience known to all the world. Place in a vase some fragments of cork or other floating body, and give to the water in the vase a circular movement the scattered fragments will unite in a group in the center of the liquid surface, that is to say, in the part least agitated. In the phenomenon we are considering, the Atlantic is the vase, the Gulf Stream the circular current, and the Sargasso Sea the central point at which the floating bodies unite.
 
@@ -4025,15 +3630,7 @@ But the operation being over, Captain Nemo said: "Let us go up; we must not abus
 
 I had not time to understand why the caption cautioned me thus, when I was thrown forward on to the carpet. At a signal from the captain, its screw was shipped, and its blades raised vertically; the Nautilus shot into the air like a balloon, rising with stunning rapidity, and cutting the mass of waters with a sonorous agitation. Nothing was visible; and in four minutes it had shot through the four leagues which separated it from the ocean, and, after emerging like a flying-fish, fell, making the waves rebound to an enormous height.
 
-
-
-
-
-CHAPTER XII
-
-CACHALOTS AND WHALES
-
-
+CHAPTER XII: CACHALOTS AND WHALES%%%%%h2.
 
 During the nights of the 13th and 14th of March, the Nautilus returned to its southerly course. I fancied that, when on a level with Cape Horn, he would turn the helm westward, in order to beat the Pacific seas, and so complete the tour of the world. He did nothing of the kind, but continued on his way to the southern regions. Where was he going to? To the pole? It was madness! I began to think that the captain's temerity justified Ned Land's fears. For some time past the Canadian had not spoken to me of his projects of flight; he was less communicative, almost silent. I could see that this lengthened imprisonment was weighing upon him, and I felt that rage was burning within him. When he met the captain his eyes lit up with suppressed anger; and I feared that his natural violence would lead him into some extreme. That day, the 14th of March, Conseil and he came to me in my room. I inquired the cause of their visit.
 
@@ -4193,15 +3790,7 @@ Mouth and teeth! No one could better describe the macrocephalous cachalot, which
 
 I feared he would commit some act of violence, which would end in sad consequences. But his anger was turned by the sight of a whale which the Nautilus had just come up with. The creature had not quite escaped from the cachalot's teeth. I recognized the southern whale by its flat head, which is entirely black. Anatomically, it is distinguished from the white whale and the North-Cape whale by the seven cervical vertebræ, and it has two more ribs than its congeners. The unfortunate cetacean was lying on its side, riddled with holes from the bites, and quite dead. From its mutilated fin still hung a young whale which it could not save from the massacre. Its open mouth let the water flow in and out, murmuring like the waves breaking on the shore. Captain Nemo steered close to the corpse of the creature. Two of his men mounted its side, and I saw, not without surprise, that they were drawing from its breasts all the milk which they contained, that is to say, about two or three tons. The captain offered me a cup of the milk, which was still warm. I could not help showing my repugnance to the drink; but he assured me that it was excellent, and not to be distinguished from cow's milk. I tasted it, and was of his opinion. It was a useful reserve to us, for in the shape of salt butter or cheese it would form an agreeable variety from our ordinary food. From that day I noticed with uneasiness that Ned Land's ill-will toward Captain Nemo increased, and I resolved to watch the Canadian's gestures closely.
 
-
-
-
-
-CHAPTER XIII
-
-THE ICEBERG
-
-
+CHAPTER XIII: THE ICEBERG%%%%%h2.
 
 The Nautilus was steadily pursuing its southerly course, following the fiftieth meridian with considerable speed. Did he wish to reach the pole? I did not think so, for every attempt to reach that point had hitherto failed. Again the season was far advanced; for in the antarctic regions the 13th of March corresponds with the 13th of September of northern regions, which begins at the equinoctial season. On the 14th of March I saw floating ice in latitude 55°, merely pale bits of débris from twenty to twenty-five feet long, forming banks over which the sea curled. The Nautilus remained on the surface of the ocean. Ned Land, who had fished in the arctic seas, was familiar with its icebergs; but Conseil and I admired them for the first time. In the atmosphere toward the southern horizon stretched a white dazzling band. English whalers had given it the name of "ice blink." However thick the clouds may be, it is always visible, and announces the presence of an ice-pack or bank. Accordingly, larger blocks soon appeared, whose brilliancy changed with the caprices of the fog. Some of these masses showed green veins, as if long undulating lines had been traced with sulphate of copper; others resembled enormous amethysts with the light shining through them. Some reflected the light of day upon a thousand crystal facets. Others shaded with vivid calcareous reflections resembled a perfect town of marble. The more we neared the south the more these floating islands increased both in number and importance.
 
@@ -4283,15 +3872,7 @@ For a part of the night the novelty of the situation kept us at the window. The 
 
 "The sea is open!" was all he said.
 
-
-
-
-
-CHAPTER XIV
-
-THE SOUTH POLE
-
-
+CHAPTER XIV: THE SOUTH POLE%%%%%h2.
 
 I rushed on to the platform. Yes! the open sea, with but a few scattered pieces of ice and moving icebergs—a long stretch of sea; a world of birds in the air, and myriads of fishes under those waters, which varied from intense blue to olive-green, according to the bottom. The thermometer marked three degrees centigrade above zero. It was comparatively spring, shut up as we were behind this iceberg, whose lengthened mass was dimly seen on our northern horizon.
 
@@ -4389,15 +3970,7 @@ Saying which, Captain Nemo unfurled a black banner, bearing an N in gold quarter
 
 "Adieu, sun! Disappear, thou radiant orb! rest beneath this open sea, and let a night of six months spread its shadows over my new domains!"
 
-
-
-
-
-CHAPTER XV
-
-ACCIDENT OR INCIDENT?
-
-
+CHAPTER XV: ACCIDENT OR INCIDENT?%%%%%h2.
 
 The next day, the 22d of March, at six in the morning, preparations for departure were begun. The last gleams of twilight were melting into night. The cold was great; the constellations shone with wonderful intensity. In the zenith glittered that wondrous Southern Cross—the polar bear of antarctic regions. The thermometer showed twelve degrees below zero, and when the wind freshened, it was most biting. Flakes of ice increased on the open water. The sea seemed everywhere alike. Numerous blackish patches spread on the surface, showing the formation of fresh ice. Evidently the southern basin, frozen during the six winter months, was absolutely inaccessible. What became of the whales in that time? Doubtless they went benath the icebergs, seeking more practicable seas. As to the seals and morses, accustomed to live in a hard climate, they remained on these icy shores. These creatures have the instinct to break holes in the ice-fields, and to keep them open. To these holes they come for breath; when the birds, driven away by the cold, have emigrated to the north, these sea mammals remain sole masters of the polar continent. But the reservoirs were filling with water, and the Nautilus was slowly descending. At 1,000 feet deep it stopped; its screw beat the waves, and it advanced straight toward the north, at a speed of fifteen miles an hour. Toward night it was already floating under the immense body of an iceberg. At three in the morning I was awakened by a violent shock. I sat up in my bed and listened in the darkness, when I was thrown into the middle of the room. The Nautilus, after having struck, had rebounded violently. I groped along the partition, and by the staircase to the saloon, which was lit by the luminous ceiling. The furniture was upset. Fortunately the windows were firmly set, and had held fast. The pictures on the starboard side, from being no longer vertical, were clinging to the paper, while those of the port side were hanging at least a foot from the wall. The Nautilus was lying on its starboard side perfectly motionless. I heard footsteps, and a confusion of voices; but Captain Nemo did not appear. As I was leaving the saloon, Ned Land and Conseil entered.
 
@@ -4529,15 +4102,7 @@ Some hours passed. I often looked at the instruments hanging from the partition.
 
 "Yes."
 
-
-
-
-
-CHAPTER XVI
-
-WANT OF AIR
-
-
+CHAPTER XVI: WANT OF AIR%%%%%h2.
 
 Thus, around the Nautilus, above and below, was an impenetrable wall of ice. We were prisoners to the iceberg. I watched the captain. His countenance had resumed its habitual imperturbability.
 
@@ -4637,15 +4202,7 @@ I could not answer him. I seized his hand, and pressed it convulsively. All at o
 
 Half stretched upon a divan in the library, I was suffocating. My face was purple, my lips blue, my faculties suspended. I neither saw nor heard. All notion of time had gone from my mind. My muscles could not contract. I do not know how many hours passed thus, but I was conscious of the agony that was coming over me. I felt as if I was going to die. Suddenly I came to. Some breaths of air penetrated my lungs. Had we risen to the surface of the waves? Were we free of the iceberg? No; Ned and Conseil, my two brave friends, were sacrificing themselves to save me. Some particles of air still remained at the bottom of one apparatus. Instead of using it, they had kept it for me, and while they were being suffocated, they gave me life drop by drop. I wanted to push back the thing; they held my hands, and for some moments I breathed freely. I looked at the clock; it was eleven in the morning. It ought to be the 28th of March. The Nautilus went at a frightful pace, forty miles an hour. It literally tore through the water. Where was Captain Nemo? Had he succumbed? Were his companions dead with him? At the moment, the manometer indicated that we were not more than twenty feet from the surface. A mere plate of ice separated us from the atmosphere; could we not break it? Perhaps. In any case the Nautilus was going to attempt it. I felt that it was in an oblique position, lowering the stern, and raising the bows. The introduction of water had been the means of disturbing its equilibrium. Then, impelled by its powerful screw, it attacked the ice-field from beneath like a formidable battering-ram. It broke it by backing and then rushing forward against the field, which gradually gave way; and at last, dashing suddenly against it, shot forward on the icy field, that crushed beneath its weight. The panel was opened—one might say torn off—and the pure air came in in abundance to all parts of the Nautilus.
 
-
-
-
-
-CHAPTER XVII
-
-FROM CAPE HORN TO THE AMAZON
-
-
+CHAPTER XVII: FROM CAPE HORN TO THE AMAZON%%%%%h2.
 
 How I got on to the platform, I have no idea; perhaps the Canadian had carried me there. But I breathed, I inhaled the vivifying sea-air. My two companions were getting drunk with the fresh particles. We had no need to restrain ourselves; we could draw this air freely into our lungs, and it was the breeze, the breeze alone, that filled us with this keen enjoyment.
 
@@ -4691,15 +4248,7 @@ The echeneis effects their capture with extraordinary precision and certainty. T
 
 This day's fishing brought to a close our stay on the shores of the Amazon, and by nightfall the Nautilus had regained the high seas.
 
-
-
-
-
-CHAPTER XVIII
-
-THE DEVILFISH
-
-
+CHAPTER XVIII: THE DEVILFISH%%%%%h2.
 
 For several days the Nautilus kept off from the American coast. Evidently it did not wish to risk the tides of the Gulf of Mexico, or of the sea of the Antilles. April 16th, we sighted Martinique and Guadaloupe from a distance of about thirty miles. I saw their tall peaks for an instant. The Canadian, who counted on carrying out his projects in the Gulf, by either landing, or hailing one of the numerous boats that coast from one island to another, was quite disheartened. Flight would have been quite practicable, if Ned Land had been able to take possession of the boat without the captain's knowledge. But in the open sea it could not be thought of. The Canadian, Conseil, and I had a long conversation on this subject. For six months we had been prisoners on board the Nautilus. We had traveled 17,000 leagues; and, as Ned Land said, there was no reason why it should not come to an end. We could hope nothing from the captain of the Nautilus, but only from ourselves. Besides, for some time past he had become graver, more retired, less sociable. He seemed to shun me. I met him rarely. Formerly, he was pleased to explain the submarine marvels to me; now, he left me to my studies, and came no more to the saloon. What change had come over him? For what cause? For my part, I did not wish to bury with me my curious and novel studies. I had now the power to write the true book of the sea.
 
@@ -4837,15 +4386,7 @@ Ah! how my heart beat with emotion and horror! The formidable beak of a devilfis
 
 Ned bowed without replying. The combat had lasted a quarter of an hour. The monsters, vanquished and mutilated, left us at last, and disappeared under the waves. Captain Nemo, covered with blood, nearly exhausted, gazed upon the sea that had swallowed up one of his companions, and great tears gathered in his eyes.
 
-
-
-
-
-CHAPTER XIX
-
-THE GULF STREAM
-
-
+CHAPTER XIX: THE GULF STREAM%%%%%h2.
 
 This terrible scene of the 20th of April none of us can ever forget. I have written it under the influence of violent emotion. Since then I have revised the recital; I have read it to Conseil and to the Canadian. They found it exact as to facts, but insufficient as to effect. To paint such pictures, one must have the pen of the most illustrious of our poets, the author of "The Toilers of the Deep."
 
@@ -4933,15 +4474,7 @@ I retired. Our situation was critical. I related my conversation to my two compa
 
 But the sky became more and more threatening. Symptoms of a hurricane became manifest. The atmosphere was becoming white and misty. On the horizon fine streaks of cirrus clouds were succeeded by masses of cumuli. Other low clouds passed swiftly by. The swollen sea rose in huge billows. The birds disappeared, with the exception of the petrels, those friends of the storm. The barometer fell sensibly, and indicated an extreme tension of the vapors. The mixture of the storm-glass was decomposed under the influence of the electricity that pervaded the atmosphere. The tempest burst on the 18th of May, just as the Nautilus was floating off Long Island, some miles from the port of New York. I can describe this strife of the elements! for, instead of fleeing to the depths of the sea, Captain Nemo, by an unaccountable caprice, would brave it at the surface. The wind blew from the southwest at first. Captain Nemo, during the squalls, had taken his place on the platform. He had made himself fast, to prevent being washed overboard by the monstrous waves. I had hoisted myself up, and made myself fast also, dividing my admiration between the tempest and this extraordinary man who was coping with it. The raging sea was swept by huge cloud-drifts, which were actually saturated with the waves. The Nautilus, sometimes lying on its side, sometimes standing up like a mast, rolled and pitched terribly. About five o'clock a torrent of rain fell, that lulled neither sea nor wind. The hurricane blew nearly forty leagues an hour. It is under these conditions that it overturns houses, breaks iron gates, displaces twenty-four-pounders. However, the Nautilus, in the midst of the tempest, confirmed the words of a clever engineer: "There is no well-constructed hull that cannot defy the sea." This was not a resisting rock; it was a steel spindle, obedient and movable, without rigging or masts, that braved its fury with impunity. However, I watched these raging waves attentively. They measured fifteen feet in height, and 150 to 175 yards long, and their speed of propagation was thirty feet per second. Their bulk and power increased with the depth of the water. Such waves as these at the Hebrides have displaced a mass weighing 8,400 lbs. They are they which, in the tempest of December 23, 1864, after destroying the town of Yeddo, in Japan, broke the same day on the shores of America. The intensity of the tempest increased with the night. The barometer, as in 1860 at Reunion during a cyclone, fell seven-tenths at the close of day. I saw a large vessel pass the horizon struggling painfully. She was trying to lie to under half steam, to keep up above the waves. It was probably one of the steamers of the line from New York to Liverpool or Havre. It soon disappeared in the gloom. At ten o'clock in the evening the sky was on fire. The atmosphere was streaked with vivid lightning. I could not bear the brightness of it; while the captain, looking at it, seemed to envy the spirit of the tempest. A terrible noise filled the air, a complex noise, made up of the howls of the crushed waves, the roaring of the wind, and the claps of thunder. The wind veered suddenly to all points of the horizon; and the cyclone, rising in the east, returned after passing by the north, west, and south, in the inverse course pursued by the circular storms of the southern hemisphere. Ah, that Gulf Stream! It deserves its name of the King of Tempests. It is that which causes those formidable cyclones, by the difference of temperature between its air and its currents. A shower of fire had succeeded the rain. The drops of water were changed to sharp spikes. One would have thought that Captain Nemo was courting a death worthy of himself, a death by lightning. As the Nautilus, pitching dreadfully, raised its steel spur in the air, it seemed to act as a conductor, and I saw long sparks burst from it. Crushed and without strength, I crawled to the panel, opened it, and descended to the saloon. The storm was then at its height. It was impossible to stand upright in the interior of the Nautilus. Captain Nemo came down about twelve. I heard the reservoirs filling by degrees, and the Nautilus sank slowly beneath the waves. Through the open windows in the saloon I saw large fish, terrified, passing like phantoms in the water. Some were struck before my eyes. The Nautilus was still descending. I thought that at about eight fathoms deep we should find a calm. But no! the upper beds were too violently agitated for that. We had to seek repose at more than twenty-five fathoms in the bowels of the deep. But there, what quiet, what silence, what peace! Who could have told that such a hurricane had been let loose on the surface of that ocean?
 
-
-
-
-
-CHAPTER XX
-
-FINDING THE "AVENGER"
-
-
+CHAPTER XX: FINDING THE "AVENGER"%%%%%h2.
 
 In consequence of the storm, we had been thrown eastward once more. All hope of escape on the shores of New York or St. Lawrence had faded away; and poor Ned, in despair, had isolated himself like Captain Nemo. Conseil and I, however, never left each other. I said that the Nautilus had gone aside to the east. I should have said (to be more exact) the northeast. For some days it wandered, first on the surface and then beneath it, amid those fogs so dreaded by sailors. What accidents are due to these thick fogs! What shocks upon these reefs when the wind drowns the breaking of the waves! What collisions between vessels, in spite of their warning lights, whistles, and alarm-bells! And the bottoms of these seas look like a field of battle, where still lie all the conquered of the ocean; some old and already incrusted, others fresh and reflecting from their iron bands and copper plates the brilliancy of our lantern.
 
@@ -4979,15 +4512,7 @@ What was this vessel? Why did the Nautilus visit its tomb? Could it have been au
 
 "Yes, sir, the Avenger! A good name!" muttered Captain Nemo, crossing his arms.
 
-
-
-
-
-CHAPTER XXI
-
-A HECATOMB
-
-
+CHAPTER XXI: A HECATOMB%%%%%h2.
 
 The way of describing this unlooked-for scene, the history of the patriot ship, told at first so coldly, and the emotion with which this strange man pronounced the last words, the name of the Avenger, the significance of which could not escape me, all impressed itself deeply on my mind. My eyes did not leave the captain; who, with his hand stretched out to sea, was watching with a glowing eye the glorious wreck. Perhaps I was never to know who he was, from whence he came, or where he was going to, but I saw the man move, and apart from the savant. It was no common misanthropy which had shut Captain Nemo and his companions within the Nautilus, but a hatred, either monstrous or sublime, which time could never weaken. Did this hatred still seek for vengeance? The future would soon teach me that. But the Nautilus was rising slowly to the surface of the sea, and the form of the Avenger disappeared by degrees from my sight. Soon a slight rolling told me that we were in the open air. At that moment a dull boom was heard. I looked at the captain. He did not move.
 
@@ -5095,15 +4620,7 @@ The water was rising. The poor creatures were crowding the ratlings, clinging to
 
 I turned to Captain Nemo. That terrible avenger, a perfect archangel of hatred, was still looking. When all was over, he turned to his room, opened the door, and entered. I followed him with my eyes. On the end wall beneath his heroes, I saw the portrait of a woman still young, and two little children. Captain Nemo looked at them for some moments, stretched his arms toward them, and kneeling down burst into deep sobs.
 
-
-
-
-
-CHAPTER XXII
-
-THE LAST WORDS OF CAPTAIN NEMO
-
-
+CHAPTER XXII: THE LAST WORDS OF CAPTAIN NEMO%%%%%h2.
 
 The panels had closed on this dreadful vision, but light had not returned to the saloon: all was silence and darkness within the Nautilus. At wonderful speed, a hundred feet beneath the water, it was leaving this desolate spot. Whither was it going? To the north or south? Where was the man flying to after such dreadful retaliation? I had returned to my room, where Ned and Conseil had remained silent enough. I felt an insurmountable horror for Captain Nemo. Whatever he had suffered at the hands of these men, he had no right to punish thus. He had made me, if not an accomplice, at least a witness of his vengeance. At eleven the electric light reappeared. I passed into the saloon. It was deserted. I consulted the different instruments. The Nautilus was flying northward at the rate of twenty-five miles an hour, now on the surface, and now thirty feet below it. On taking the bearings by the chart, I saw that we were passing the mouth of the Manche, and that our course was hurrying us toward the northern seas at a frightful speed. That night we had crossed two hundred leagues of the Atlantic. The shadows fell, and the sea was covered with darkness until the rising of the moon. I went to my room, but could not sleep. I was troubled with dreadful nightmare. The horrible scene of destruction was continually before my eyes. From that day, who could tell into what part of the North Atlantic basin the Nautilus would take us? Still with unaccountable speed. Still in the midst of these northern fogs. Would it touch at Spitzbergen, or on the shores of Nova Zembla? Should we explore those unknown seas, the White Sea, the Sea of Kara, the Gulf of Obi, the Archipelago of Liarrov, and the unknown coast of Asia? I could not say. I could no longer judge of the time that was passing. The clocks had been stopped on board. It seemed, as in polar countries, that night and day no longer followed their regular course. I felt myself being drawn into that strange region where the foundered imagination of Edgar Poe roamed at will. Like the fabulous Gordon Pym, at every moment I expected to see "that veiled human figure, of larger proportions than those of any inhabitant of the earth, thrown across the cataract which defends the approach to the pole." I estimated (though perhaps I may be mistaken)—I estimated this adventurous course of the Nautilus to have lasted fifteen or twenty days. And I know not how much longer it might have lasted, had it not been for the catastrophe which ended this voyage. Of Captain Nemo I saw nothing whatever now, nor of his second. Not a man of the crew was visible for an instant. The Nautilus was almost incessantly under water. When we came to the surface to renew the air, the panels opened and shut mechanically. There were no more marks on the planisphere. I knew not where we were. And the Canadian, too, his strength and patience at an end, appeared no more. Conseil could not draw a word from him, and fearing that, in a dreadful fit of madness, he might kill himself, watched him with constant devotion. One morning (what date it was I could not say), I had fallen into a heavy sleep toward the early hours, a sleep both painful and unhealthy, when I suddenly awoke. Ned Land was leaning over me, saying in a low voice, " We are going to fly."
 
@@ -5195,15 +4712,7 @@ He had not finished the words when we heard a crashing noise, the bolts gave way
 
 My head struck on a piece of iron, and with the violent shock I lost all consciousness.
 
-
-
-
-
-CHAPTER XXIII
-
-CONCLUSION
-
-
+CHAPTER XXIII: CONCLUSION%%%%%h2.
 
 Thus ends the voyage under the seas. What passed during that night—how the boat escaped from the eddies of the maëlstrom, how Ned Land, Conseil, and myself ever came out of the gulf—I cannot tell. But when I returned to consciousness, I was lying in a fisherman's hut, on the Loffoden Isles. My two companions, safe and sound, were near me holding my hands. We embraced each other heartily.
 
@@ -5222,63 +4731,3 @@ I hope so. And I also hope that his powerful vessel has conquered the sea at its
 Captain Nemo and Myself.
 
 THE END
-
-
-
-
-
-About this digital edition
-
-
-This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
-
-We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
-
-Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
-
-The following users contributed to this book:
-
-ShakespeareFan00
-
-TeysaKarlov
-
-William Maury Morris II
-
-Kathleen.wright5
-
-Billinghurst
-
-Mudbringer
-
-Akme
-
-Hesperian
-
-Renamed user QaFQqK56bnsHrz
-
-Mahir256
-
-EncycloPetey
-
-Sp1nd01
-
-Languageseeker
-
-Econterms
-
-AFBorchert
-
-Yodin
-
-Zyephyrus
-
-Nexusfirs
-
-Ultimateria
-
-PawełMM
-
-
-
-
-

@@ -1,435 +1,10 @@
-Vingt mille lieues sous les mers
+Vingt mille lieues sous les mers%%%%%title.
 
+Jules Verne%%%%%author.
 
+PREMIÈRE PARTIE.%%%%%h1.
 
-Jules Verne
-
-
-
-
-
-J. Hetzel, Paris, 1870
-
-
-
-
-
-Exporté de Wikisource le 12 août 2024
-
-
-
-
-
-TABLE DES MATIÈRES
-
-
-
-* * *
-
-
-
-
-PREMIÈRE PARTIE.
-
-
-
-Chapitre I.
-
-Un écueil fuyant
-
-
-
-
-
-II.
-
-Le pour et le contre
-
-
-
-
-
-III.
-
-Comme il plaira à monsieur
-
-
-
-
-
-IV.
-
-Ned Land
-
-
-
-
-
-V.
-
-À l’aventure !
-
-
-
-
-
-VI.
-
-À toute vapeur
-
-
-
-
-
-VII.
-
-Une baleine d’espèce inconnue
-
-
-
-
-
-VIII.
-
-Mobilis in mobile
-
-
-
-
-
-IX.
-
-Les colères de Ned Land
-
-
-
-
-
-X.
-
-L’homme des eaux
-
-
-
-
-
-XI.
-
-Le Nautilus
-
-
-
-
-
-XII.
-
-Tout par l’électricité
-
-
-
-
-
-XIII.
-
-Quelques chiffres
-
-
-
-
-
-XIV.
-
-Le Fleuve-Noir
-
-
-
-
-
-XV.
-
-Une invitation par lettre
-
-
-
-
-
-XVI.
-
-Promenade en plaine
-
-
-
-
-
-XVII.
-
-Une forêt sous-marine
-
-
-
-
-
-XVIII.
-
-Quatre mille lieues sous le Pacifique
-
-
-
-
-
-XIX.
-
-Vanikoro
-
-
-
-
-
-XX.
-
-Le détroit de Torrès
-
-
-
-
-
-XXI.
-
-Quelques jours à terre
-
-
-
-
-
-XXII.
-
-La foudre du capitaine Nemo
-
-
-
-
-
-XXIII.
-
-Ægri somnia
-
-
-
-
-
-XXIV.
-
-Le royaume du corail
-
-
-
-
-
-TABLE DES MATIÈRES.
-
-DEUXIÈME PARTIE.
-
-
-
-Chapitre I.
-
-L’Océan Indien
-
-
-
-
-
-II.
-
-Une nouvelle proposition du capitaine Nemo
-
-
-
-
-
-III.
-
-Une Perle de dix millions
-
-
-
-
-
-IV.
-
-La Mer Rouge
-
-
-
-
-
-V.
-
-Arabian-Tunnel
-
-
-
-
-
-VI.
-
-L’Archipel grec
-
-
-
-
-
-VII.
-
-La Méditerranée en quarante-huit heures
-
-
-
-
-
-VIII.
-
-La Baie de Vigo
-
-
-
-
-
-IX.
-
-Un Continent disparu
-
-
-
-
-
-X.
-
-Les Houillères sous-marines
-
-
-
-
-
-XI.
-
-La Mer de Sargasses
-
-
-
-
-
-XII.
-
-Cachalots et Baleines
-
-
-
-
-
-XIII.
-
-La Banquise
-
-
-
-
-
-XIV.
-
-Le Pôle Sud
-
-
-
-
-
-XV.
-
-Accident ou Incident
-
-
-
-
-
-XVI.
-
-Faute d’air
-
-
-
-
-
-XVII.
-
-Du Cap Horn à l’Amazone
-
-
-
-
-
-XVIII.
-
-Les Poulpes
-
-
-
-
-
-XIX.
-
-Le Gulf-Stream
-
-
-
-
-
-XX.
-
-Par 47° 24′ de latitude et de 17° 28′ de longitude
-
-
-
-
-
-XXI.
-
-Une Hécatombe
-
-
-
-
-
-XXII.
-
-Les dernières paroles du capitaine Nemo
-
-
-
-
-
-XXIII.
-
-Conclusion
-
-
-
-
-
-fin de la table des matières.
-
-
-
-
-
-CHAPITRE PREMIER
-
-
-
-UN ÉCUEIL FUYANT.
-
-
-
-
+CHAPITRE PREMIER: UN ÉCUEIL FUYANT.%%%%%h2.
 
 L’année 1866 fut marquée par un événement bizarre, un phénomène inexpliqué et inexplicable que personne n’a sans doute oublié. Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l’esprit public à l’intérieur des continents, les gens de mer furent particulièrement émus. Les négociants, armateurs, capitaines de navires, skippers et masters de l’Europe et de l’Amérique, officiers des marines militaires de tous pays, et, après eux, les gouvernements des divers États des deux continents, se préoccupèrent de ce fait au plus haut point.
 
@@ -487,23 +62,7 @@ Les ingénieurs procédèrent à la visite du Scotia Tel était ce dernier fait,
 
 Or, ce fut le « monstre » qui, justement ou injustement, fut accusé de leur disparition, et, grâce à lui, les communications entre les divers continents devenant de plus en plus dangereuses, le public se déclara et demanda catégoriquement que les mers fussent enfin débarrassées et à tout prix de ce formidable cétacé.
 
-
-
-↑ Environ 106 mètres. Le pied anglais n’est que de 30,40 centimètres.
-
-
-
-
-
-CHAPITRE II
-
-
-
-LE POUR ET LE CONTRE.
-
-
-
-
+CHAPITRE II: LE POUR ET LE CONTRE.%%%%%h2.
 
 À l’époque où ces événements se produisirent, je revenais d’une exploration scientifique entreprise dans les mauvaises terres du Nébraska, aux États-Unis. En ma qualité de professeur-suppléant au Muséum d’histoire naturelle de Paris, le gouvernement français m’avait joint à cette expédition. Après six mois passés dans le Nébraska, chargé de précieuses collections, j’arrivai à New York vers la fin de mars. Mon départ pour la France était fixé aux premiers jours de mai. Je m’occupais donc, en attendant, de classer mes richesses minéralogiques, botaniques et zoologiques, quand arriva l’incident du Scotia.
 
@@ -589,19 +148,7 @@ J.-B. Hobson,
 
 Secrétaire de la marine. »
 
-
-
-
-
-CHAPITRE III
-
-
-
-COMME IL PLAIRA À MONSIEUR.
-
-
-
-
+CHAPITRE III: COMME IL PLAIRA À MONSIEUR.%%%%%h2.
 
 Trois secondes avant l’arrivée de la lettre de J.-B. Hobson, je ne songeais pas plus à poursuivre la Licorne qu’à tenter le passage du Nord-Ouest. Trois secondes après avoir lu la lettre de l’honorable secrétaire de la marine, je comprenais enfin que ma véritable vocation, l’unique but de ma vie, était de chasser ce monstre inquiétant et d’en purger le monde.
 
@@ -715,25 +262,7 @@ Le cortège des boats et des tenders suivait toujours la frégate, et il ne la q
 
 Trois heures sonnaient alors. Le pilote descendit dans son canot, et rejoignit la petite goélette qui l’attendait sous le vent. Les feux furent poussés ; l’hélice battit plus rapidement les flots ; la frégate longea la côte jaune et basse de Long-Island, et, à huit heures du soir, après avoir perdu dans le nord-ouest les feux de Fire-Island, elle courut à toute vapeur sur les sombres eaux de l’Atlantique.
 
-
-
-↑ Sorte de quai spécial à chaque bâtiment.
-
-↑ Petits bateaux à vapeur qui font le service des grands steamers
-
-
-
-
-
-CHAPITRE IV
-
-
-
-NED LAND.
-
-
-
-
+CHAPITRE IV: NED LAND.%%%%%h2.
 
 Le commandant Farragut était un bon marin, digne de la frégate qu’il commandait. Son navire et lui ne faisaient qu’un. Il en était l’âme. Sur la question du cétacé, aucun doute ne s’élevait dans son esprit, et il ne permettait pas que l’existence de l’animal fût discutée à son bord. Il y croyait comme certaines bonnes femmes croient au Léviathan, — par foi, non par raison. Le monstre existait, il en délivrerait les mers, il l’avait juré. C’était une sorte de chevalier de Rhodes, un Dieudonné de Gozon, marchant à la rencontre du serpent qui désolait son île. Ou le commandant Farragut tuerait le narwal, ou le narwal tuerait le commandant Farragut. Pas de milieu.
 
@@ -849,19 +378,7 @@ Mais cette réponse prouvait l’obstination du harponneur et pas autre chose. C
 
 Or, suivant moi, et toutes les raisons précédemment déduites, cet animal appartenait à l’embranchement des vertébrés, à la classe des mammifères, au groupe des pisciformes, et finalement à l’ordre des cétacés. Quant à la famille dans laquelle il prenait rang, baleine, cachalot ou dauphin, quant au genre dont il faisait partie, quant à l’espèce dans laquelle il convenait de le ranger, c’était une question à élucider ultérieurement. Pour la résoudre, il fallait disséquer ce monstre inconnu, pour le disséquer le prendre, pour le prendre le harponner, — ce qui était l’affaire de Ned Land, — pour le harponner le voir, ce qui était l’affaire de l’équipage — et pour le voir le rencontrer, — ce qui était l’affaire du hasard.
 
-
-
-
-
-CHAPITRE V
-
-
-
-À L’AVENTURE !
-
-
-
-
+CHAPITRE V: À L’AVENTURE !%%%%%h2.
 
 Le voyage de l’Abraham-Lincoln, pendant quelque temps, ne fut marqué par aucun incident. Cependant une circonstance se présenta, qui mit en relief la merveilleuse habileté de Ned Land, et montra quelle confiance on devait avoir en lui.
 
@@ -947,19 +464,7 @@ Conseil ne put achever son compliment. Au milieu du silence général, une voix 
 
 « Ohé ! la chose en question, sous le vent, par le travers à nous ! »
 
-
-
-
-
-CHAPITRE VI
-
-
-
-À TOUTE VAPEUR.
-
-
-
-
+CHAPITRE VI: À TOUTE VAPEUR.%%%%%h2.
 
 À ce cri, l’équipage entier se précipita vers le harponneur, commandant, officiers, maîtres, matelots, mousses, jusqu’aux ingénieurs qui quittèrent leur machine, jusqu’aux chauffeurs qui abandonnèrent leurs fourneaux.
 
@@ -1173,19 +678,7 @@ La clarté électrique s’éteignit soudain, et deux énormes trombes d’eau s
 
 Un choc effroyable se produisit, et, lancé par-dessus la lisse, sans avoir le temps de me retenir, je fus précipité à la mer.
 
-
-
-
-
-CHAPITRE VII
-
-
-
-UNE BALEINE D’ESPÈCE INCONNUE.
-
-
-
-
+CHAPITRE VII: UNE BALEINE D’ESPÈCE INCONNUE.%%%%%h2.
 
 Bien que j’eusse été surpris par cette chute inattendue, je n’en conservai pas moins une impression très-nette de mes sensations.
 
@@ -1371,19 +864,7 @@ Soudain, un bruit de ferrures violemment poussées se produisit à l’intérieu
 
 Quelques instants après, huit solides gaillards, le visage voilé, apparaissaient silencieusement, et nous entraînaient dans leur formidable machine.
 
-
-
-
-
-CHAPITRE VIII
-
-
-
-MOBILIS IN MOBILE.
-
-
-
-
+CHAPITRE VIII: MOBILIS IN MOBILE.%%%%%h2.
 
 Cet enlèvement, si brutalement exécuté, s’était accompli avec la rapidité de l’éclair. Mes compagnons et moi, nous n’avions pas eu le temps de nous reconnaître. Je ne sais ce qu’ils éprouvèrent en se sentant introduits dans cette prison flottante ; mais, pour mon compte, un rapide frisson me glaça l’épiderme. À qui avions-nous affaire ? Sans doute à quelques pirates d’une nouvelle espèce qui exploitaient la mer à leur façon.
 
@@ -1515,27 +996,7 @@ Mes deux compagnons s’étendirent sur le tapis. Mes deux compagnons s’étend
 
 Pour mon compte, je cédai moins facilement à ce violent besoin de dormir. Trop de pensées s’accumulaient dans mon esprit, trop de questions insolubles s’y pressaient, trop d’images tenaient mes paupières entr’ouvertes ! Où étions-nous ? Quelle étrange puissance nous emportait ? Je sentais, — ou plutôt je croyais sentir, — l’appareil s’enfoncer vers les couches les plus reculées de la mer. De violents cauchemars m’obsédaient. J’entrevoyais dans ces mystérieux asiles tout un monde d’animaux inconnus, dont ce bateau sous-marin semblait être le congénère, vivant, se mouvant, formidable comme eux !… Puis, mon cerveau se calma, mon imagination se fondit en une vague somnolence, et je tombai bientôt dans un morne sommeil.
 
-
-
-
-
-↑ Couteau à large lame qu’un Américain porte toujours sur lui.
-
-↑ Domestique à bord d’un steamer.
-
-
-
-
-
-CHAPITRE IX
-
-
-
-LES COLÈRES DE NED LAND.
-
-
-
-
+CHAPITRE IX: LES COLÈRES DE NED LAND.%%%%%h2.
 
 Quelle fut la durée de ce sommeil, je l’ignore ; mais il dut être long, car il nous reposa complètement de nos fatigues. Je me réveillai le premier. Mes compagnons n’avaient pas encore bougé, et demeuraient étendus dans leur coin comme des masses inertes.
 
@@ -1679,19 +1140,7 @@ Conseil cherchait déjà à retirer des mains du harponneur sa victime à demi s
 
 « Calmez-vous, maître Land, et vous, monsieur le professeur, veuillez m’écouter ! »
 
-
-
-
-
-CHAPITRE X
-
-
-
-L’HOMME DES EAUX.
-
-
-
-
+CHAPITRE X: L’HOMME DES EAUX.%%%%%h2.
 
 C’était le commandant du bord qui parlait ainsi.
 
@@ -1861,19 +1310,7 @@ Le capitaine Nemo se tut subitement au milieu de cet enthousiasme qui débordait
 
 « Maintenant, monsieur le professeur, dit-il, si vous voulez visiter le Nautilus, je suis à vos ordres. »
 
-
-
-
-
-CHAPITRE XI
-
-
-
-LE NAUTILUS.
-
-
-
-
+CHAPITRE XI: LE NAUTILUS.%%%%%h2.
 
 Le capitaine Nemo se leva. Je le suivis. Une double porte, ménagée à l’arrière de la salle, s’ouvrit, et j’entrai dans une chambre de dimension égale à celle que je venais de quitter.
 
@@ -1975,19 +1412,7 @@ Le capitaine Nemo me montra un siège.
 
 Je m’assis, et il prit la parole en ces termes :
 
-
-
-
-
-CHAPITRE XII
-
-
-
-TOUT PAR L’ÉLECTRICITÉ.
-
-
-
-
+CHAPITRE XII: TOUT PAR L’ÉLECTRICITÉ.%%%%%h2.
 
 « Monsieur, dit le capitaine Nemo, me montrant les instruments suspendus aux parois de sa chambre, voici les appareils exigés par la navigation du Nautilus. Ici comme dans le salon, je les ai toujours sous les yeux, et ils m’indiquent ma situation et ma direction exacte au milieu de l’Océan. Les uns vous sont connus, tels que le thermomètre qui donne la température intérieure du Nautilus ; le baromètre, qui pèse le poids de l’air et prédit les changements de temps ; l’hygromètre, qui marque le degré de sécheresse de l’atmosphère ; le storm-glass, dont le mélange, en se décomposant, annonce l’arrivée des tempêtes ; la boussole, qui dirige ma route ; le sextant, qui par la hauteur du soleil m’apprend ma latitude ; les chronomètres, qui me permettent de calculer ma longitude ; et enfin des lunettes de jour et de nuit, qui me servent à scruter tous les points de l’horizon, quand le Nautilus est remonté à la surface des flots.
 
@@ -2113,23 +1538,7 @@ Il y avait là un mystère, mais je n’insistai pas pour le connaître. Comment
 
 — Aucunement, monsieur le professeur, me répondit le capitaine, après une légère hésitation, puisque vous ne devez jamais quitter ce bateau sous-marin. Venez dans le salon. C’est notre véritable cabinet de travail, et là, vous apprendrez tout ce que vous devez savoir sur le Nautilus ! »
 
-
-
-↑ Et précisément, on parle d’une découverte de ce genre dans laquelle un nouveau jeu de leviers produit des forces considérables. L’inventeur s’est-il donc rencontré avec le capitaine Nemo ? J. V.
-
-
-
-
-
-CHAPITRE XIII
-
-
-
-QUELQUES CHIFFRES.
-
-
-
-
+CHAPITRE XIII: QUELQUES CHIFFRES.%%%%%h2.
 
 Nous étions assis sur un divan. Un instant après, nous étions assis sur un divan du salon, le cigare aux lèvres. Le capitaine mit sous mes yeux une épure qui donnait les plan, coupe et élévation du Nautilus. Puis il commença sa description en ces termes :
 
@@ -2239,19 +1648,7 @@ Le feu a détruit toute trace de notre passage. — Monsieur le professeur, j’
 
 Je regardai fixement le bizarre personnage qui me parlait ainsi. Abusait-il de ma crédulité ? L’avenir devait me l’apprendre.
 
-
-
-
-
-CHAPITRE XIV
-
-
-
-LE FLEUVE NOIR.
-
-
-
-
+CHAPITRE XIV: LE FLEUVE NOIR.%%%%%h2.
 
 La portion du globe terrestre occupée par les eaux est évaluée à trois millions huit cent trente-deux milles cinq cent cinquante-huit myriamètres carrés, soit plus de trente-huit millions d’hectares. Cette masse liquide comprend deux milliards deux cent cinquante millions de milles cubes, et formerait une sphère d’un diamètre de soixante lieues dont le poids serait de trois quintillions de tonneaux. Et, pour comprendre ce nombre, il faut se dire que le quintillion est au milliard ce que le milliard est à l’unité, c’est-à-dire qu’il y a autant de milliards dans un quintillion que d’unités dans un milliard. Or, cette masse liquide, c’est à peu près la quantité d’eau que verseraient tous les fleuves de la terre pendant quarante mille ans.
 
@@ -2465,19 +1862,7 @@ Ned Land et Conseil retournèrent à leur cabine. Moi, je regagnai ma chambre. M
 
 Je passai la soirée à lire, à écrire, à penser. Puis, le sommeil me gagnant, je m’étendis sur ma couche de zostère, et je m’endormis profondément, pendant que le Nautilus se glissait à travers le rapide courant du Fleuve-Noir.
 
-
-
-
-
-CHAPITRE XV
-
-
-
-UNE INVITATION PAR LETTRE.
-
-
-
-
+CHAPITRE XV: UNE INVITATION PAR LETTRE.%%%%%h2.
 
 Le lendemain, 9 novembre, je ne me réveillai qu’après un long sommeil de douze heures. Conseil vint, suivant son habitude, savoir « comment monsieur avait passé la nuit, » et lui offrir ses services. Il avait laissé son ami le Canadien dormant comme un homme qui n’aurait fait que cela toute sa vie.
 
@@ -2663,23 +2048,7 @@ Le capitaine Nemo me conduisit vers l’arrière du Nautilus, et, en passant dev
 
 Puis, nous arrivâmes à une cellule située en abord, près de la chambre des machines, et dans laquelle nous devions revêtir nos vêtements de promenade.
 
-
-
-↑ Petits nuages blancs légers, dentelés sur leurs bords
-
-
-
-
-
-CHAPITRE XVI
-
-
-
-PROMENADE EN PLAINE.
-
-
-
-
+CHAPITRE XVI: PROMENADE EN PLAINE.%%%%%h2.
 
 Cette cellule était, à proprement parler, l’arsenal et le vestiaire du Nautilus. Une douzaine d’appareils de scaphandres, suspendus à la paroi, attendaient les promeneurs.
 
@@ -2755,19 +2124,7 @@ En ce moment, le capitaine Nemo s’arrêta. Il attendit que je l’eusse rejoin
 
 « C’est la forêt de l’île Crespo, » pensai-je, et je ne me trompais pas.
 
-
-
-
-
-CHAPITRE XVII
-
-
-
-UNE FORÊT SOUS-MARINE.
-
-
-
-
+CHAPITRE XVII: UNE FORÊT SOUS-MARINE.%%%%%h2.
 
 Nous étions enfin arrivés à la lisière de cette forêt, sans doute l’une des plus belles de l’immense domaine du capitaine Nemo. Il la considérait comme étant sienne, et s’attribuait sur elle les mêmes droits qu’avaient les premiers hommes aux premiers jours du monde. D’ailleurs, qui lui eût disputé la possession de cette propriété sous-marine ? Quel autre pionnier plus hardi serait venu, la hache à la main, en défricher les sombres taillis ?
 
@@ -2839,19 +2196,7 @@ Une demi-heure après, guidés par la traînée électrique, nous atteignions le
 
 Là, nos habits de scaphandre furent retirés, non sans peine, et, très harassé, tombant d’inanition et de sommeil, je regagnai ma chambre, tout émerveillé de cette surprenante excursion au fond des mers.
 
-
-
-
-
-CHAPITRE XVIII
-
-
-
-QUATRE MILLE LIEUES SOUS LE PACIFIQUE.
-
-
-
-
+CHAPITRE XVIII: QUATRE MILLE LIEUES SOUS LE PACIFIQUE.%%%%%h2.
 
 Le lendemain matin, 18 novembre, j’étais parfaitement remis de mes fatigues de la veille, et je montai sur la plate-forme, au moment où le second du Nautilus prononçait sa phrase quotidienne. Il me vint alors à l’esprit qu’elle se rapportait à l’état de la mer, ou plutôt qu’elle signifiait : « Nous n’avons rien en vue. »
 
@@ -2951,19 +2296,7 @@ Cependant le Nautilus, évoluant, tourna autour du navire submergé, et, un inst
 
 Florida, Sunderland.
 
-
-
-
-
-CHAPITRE XIX
-
-
-
-VANIKORO.
-
-
-
-
+CHAPITRE XIX: VANIKORO.%%%%%h2.
 
 Ce terrible spectacle inaugurait la série des catastrophes maritimes, que le Nautilus devait renconter sur sa route. Depuis qu’il suivait des mers plus fréquentées, nous apercevions souvent des coques naufragées qui achevaient de pourrir entre deux eaux, et, plus profondément, des canons, des boulets, des ancres, des chaînes, et mille autres objets de fer, que la rouille dévorait.
 
@@ -3105,19 +2438,7 @@ C’étaient les instructions même du ministre de la Marine au commandant La P�
 
 « Ah ! c’est une belle mort pour un marin ! dit alors le capitaine Nemo. C’est une tranquille tombe que cette tombe de corail, et fasse le ciel que, mes compagnons et moi, nous n’en ayons jamais d’autre ! »
 
-
-
-
-
-CHAPITRE XX
-
-
-
-LE DÉTROIT DE TORRÈS.
-
-
-
-
+CHAPITRE XX: LE DÉTROIT DE TORRÈS.%%%%%h2.
 
 Pendant la nuit du 27 au 28 décembre, le Nautilus abandonna les parages de Vanikoro avec une vitesse excessive. Sa direction était sud-ouest, et, en trois jours, il franchit les sept cent cinquante lieues qui séparent le groupe de La Pérouse de la pointe sud-est de la Papouasie.
 
@@ -3263,19 +2584,7 @@ Ned Land ne pouvait contenir sa joie. C’était un prisonnier échappé de sa p
 
 À huit heures et demie, le canot du Nautilus venait s’échouer doucement sur une grève de sable, après avoir heureusement franchi l’anneau coralligène qui entourait l’île de Gueboroar.
 
-
-
-
-
-CHAPITRE XXI
-
-
-
-QUELQUES JOURS À TERRE.
-
-
-
-
+CHAPITRE XXI: QUELQUES JOURS À TERRE.%%%%%h2.
 
 Je fus assez vivement impressionné en touchant terre. Ned Land essayait le sol du pied, comme pour en prendre possession. Il n’y avait pourtant que deux mois que nous étions, suivant l’expression du capitaine Nemo, les « passagers du Nautilus, » c’est-à-dire, en réalité, les prisonniers de son commandant.
 
@@ -3527,19 +2836,7 @@ Enfin, le dîner fut excellent. Deux ramiers complétèrent ce menu extraordinai
 
 En ce moment une pierre vint tomber à nos pieds, et coupa court à la proposition du harponneur.
 
-
-
-
-
-CHAPITRE XXII
-
-
-
-LA FOUDRE DU CAPITAINE NEMO.
-
-
-
-
+CHAPITRE XXII: LA FOUDRE DU CAPITAINE NEMO.%%%%%h2.
 
 Nous avions regardé du côté de la forêt, sans nous lever, ma main s’arrêtant dans son mouvement vers ma bouche, celle de Ned Land achevant son office.
 
@@ -3805,19 +3102,7 @@ Cependant, les Papouas épouvantés avaient battu en retraite, affolés de terre
 
 Mais, en ce moment, le Nautilus, soulevé par les dernières ondulations du flot, quitta son lit de corail à cette quarantième minute exactement fixée par le capitaine. Son hélice battit les eaux avec une majestueuse lenteur. Sa vitesse s’accrut peu à peu, et, naviguant à la surface de l’Océan, il abandonna sain et sauf les dangereuses passes du détroit de Torrès.
 
-
-
-
-
-CHAPITRE XXIII
-
-
-
-ÆGRI SOMNIA.
-
-
-
-
+CHAPITRE XXIII: ÆGRI SOMNIA.%%%%%h2.
 
 Le jour suivant, 10 janvier, le Nautilus reprit sa marche entre deux eaux, mais avec une vitesse remarquable que je ne puis estimer à moins de trente-cinq milles à l’heure. La rapidité de son hélice était telle que je ne pouvais ni suivre ses tours ni les compter. Quand je songeais que ce merveilleux agent électrique, après avoir donné le mouvement, la chaleur, la lumière au Nautilus, le protégeait encore contre les attaques extérieures, et le transformait en une arche sainte à laquelle nul profanateur ne touchait sans être foudroyé, mon admiration n’avait plus de bornes, et de l’appareil, elle remontait aussitôt à l’ingénieur qui l’avait créé.
 
@@ -3953,19 +3238,7 @@ J’entendis alors les panneaux se refermer. Les ondulations de la mer qui provo
 
 Je voulus résister au sommeil. Ce fut impossible. Ma respiration s’affaiblit. Je sentis un froid mortel glacer mes membres alourdis et comme paralysés. Mes paupières, véritables calottes de plomb, tombèrent sur mes yeux. Je ne pus les soulever. Un sommeil morbide, plein d’hallucinations, s’empara de tout mon être. Puis, les visions disparurent, et me laissèrent dans un complet anéantissement.
 
-
-
-
-
-CHAPITRE XXIV
-
-
-
-LE ROYAUME DE CORAIL.
-
-
-
-
+CHAPITRE XXIV: LE ROYAUME DE CORAIL.%%%%%h2.
 
 Le lendemain, je me réveillai la tête singulièrement dégagée. À ma grande surprise, j’étais dans ma chambre. Mes compagnons, sans doute, avaient été réintégrés dans leur cabine, sans qu’ils s’en fussent aperçus plus que moi. Ce qui s’était passé pendant cette nuit, ils l’ignoraient comme je l’ignorais moi-même, et pour dévoiler ce mystère, je ne comptais que sur les hasards de l’avenir.
 
@@ -4119,25 +3392,9 @@ Et cachant d’un geste brusque son visage dans ses mains crispées, le capitain
 
 — Oui, monsieur, répondit gravement le capitaine Nemo, des requins et des hommes ! »
 
+SECONDE PARTIE%%%%%h1.
 
-
-
-
-fin de la première partie.
-
-
-
-
-
-CHAPITRE PREMIER
-
-
-
-L’OCÉAN INDIEN.
-
-
-
-
+CHAPITRE PREMIER: L’OCÉAN INDIEN.%%%%%h2.
 
 Ici commence la seconde partie de ce voyage sous les mers. La première s’est terminée sur cette émouvante scène du cimetière de corail qui a laissé dans mon esprit une impression profonde. Ainsi donc, au sein de cette mer immense, la vie du capitaine Nemo se déroulait tout entière, et il n’était pas jusqu’à sa tombe qu’il n’eût préparée dans le plus impénétrable de ses abîmes. Là, pas un des monstres de l’Océan ne viendrait troubler le dernier sommeil de ces hôtes du Nautilus, de ces amis, rivés les uns aux autres, dans la mort aussi bien que dans la vie ! « Nul homme, non plus ! » avait ajouté le capitaine.
 
@@ -4233,19 +3490,7 @@ Je ne sais si Conseil tint compte de ma recommandation, mais il parut se plonger
 
 Vers minuit, la mer reprit subitement sa teinte ordinaire, mais derrière nous, jusqu’aux limites de l’horizon, le ciel, réfléchissant la blancheur des flots, sembla longtemps imprégné des vagues lueurs d’une aurore boréale.
 
-
-
-
-
-CHAPITRE II
-
-
-
-UNE NOUVELLE PROPOSITION DU CAPITAINE NEMO.
-
-
-
-
+CHAPITRE II: UNE NOUVELLE PROPOSITION DU CAPITAINE NEMO.%%%%%h2.
 
 Le 28 février, lorsque le Nautilus revint à midi à la surface de la mer, par 9°4’ de latitude nord, il se trouvait en vue d’une terre qui lui restait à huit milles dans l’ouest. J’observai tout d’abord une agglomération de montagnes, hautes de deux mille pieds environ, dont les formes se modelaient très-capricieusement. Le point terminé, je rentrai dans le salon, et lorsque le relèvement eut été reporté sur la carte, je reconnus que nous étions en présence de l’île de Ceyland, cette perle qui pend au lobe inférieur de la péninsule indienne.
 
@@ -4481,19 +3726,7 @@ Ned Land avait une manière de prononcer le mot « happer » qui donnait froid d
 
 — Si monsieur affronte les requins, dit Conseil, je ne vois pas pourquoi son fidèle domestique ne les affronterait pas avec lui ! »
 
-
-
-
-
-CHAPITRE III
-
-
-
-UNE PERLE DE DIX MILLIONS.
-
-
-
-
+CHAPITRE III: UNE PERLE DE DIX MILLIONS.%%%%%h2.
 
 La nuit arriva. Je me couchai. Je dormis assez mal. Les squales jouèrent un rôle important dans mes rêves, et je trouvai très-juste et très-injuste à la fois cette étymologie qui fait venir le mot requin du mot « requiem. »
 
@@ -4665,19 +3898,7 @@ Lorsque je lui fis cette observation, il me répondit d’un ton légèrement é
 
 « Cet Indien, monsieur le professeur, c’est un habitant du pays des opprimés, et je suis encore, et, jusqu’à mon dernier souffle, je serai de ce pays-là ! »
 
-
-
-
-
-CHAPITRE IV
-
-
-
-LA MER ROUGE.
-
-
-
-
+CHAPITRE IV: LA MER ROUGE.%%%%%h2.
 
 Pendant la journée du 29 janvier, l’île de Ceyland disparut sous l’horizon, et le Nautilus, avec une vitesse de vingt milles à l’heure, se glissa dans ce labyrinthe de canaux qui séparent les Maledives des Laquedives. Il rangea même l’île Kittan, terre d’origine madréporique, découverte par Vasco de Gama en 1499, et l’une des dix-neuf principales îles de cet archipel des Laquedives, situé entre 10° et 14° 30′ de latitude nord, et 69° et 50° 72′ de longitude est.
 
@@ -4889,19 +4110,7 @@ Je ne relevai pas l’insinuation et j’attendis le récit du capitaine Nemo.
 
 « Monsieur le professeur, me dit-il, c’est un simple raisonnement de naturaliste qui m’a conduit à découvrir ce passage que je suis seul à connaître. J’avais remarqué que dans la mer Rouge et dans la Méditerranée, il existait un certain nombre de poissons d’espèces absolument identiques, des ophidies, des fiatoles, des girelles, des persègues, des joels, des exocets. Certain de ce fait je me demandai s’il n’existait pas de communication entre les deux mers. Si elle existait, le courant souterrain devait forcément aller de la mer Rouge à la Méditerranée par le seul effet de la différence des niveaux. Je pêchai donc un grand nombre de poissons aux environs de Suez. Je leur passai à la queue un anneau de cuivre, et je les rejetai à la mer. Quelques mois plus tard, sur les côtes de Syrie, je reprenais quelques échantillons de mes poissons ornés de leur anneau indicateur. La communication entre les deux m’était donc démontrée. Je la cherchai avec mon Nautilus, je la découvris, je m’y aventurai, et avant peu, monsieur le professeur, vous aussi vous aurez franchi mon tunnel arabique ! »
 
-
-
-
-
-CHAPITRE V
-
-
-
-ARABIAN-TUNNEL.
-
-
-
-
+CHAPITRE V: ARABIAN-TUNNEL.%%%%%h2.
 
 Ce jour même, je rapportai à Conseil et à Ned Land la partie de cette conversation qui les intéressait directement. Lorsque je leur appris que, dans deux jours, nous serions au milieu des eaux de la Méditerranée, Conseil battit des mains, mais le Canadien haussa les épaules.
 
@@ -5099,19 +4308,7 @@ Sur les murailles étroites du passage, je ne voyais plus que des raies éclatan
 
 En moins de vingt minutes, le Nautilus, entraîné par ce torrent, venait de franchir l’isthme de Suez.
 
-
-
-
-
-CHAPITRE VI
-
-
-
-L’ARCHIPEL GREC.
-
-
-
-
+CHAPITRE VI: L’ARCHIPEL GREC.%%%%%h2.
 
 Le lendemain, 12 février, au lever du jour, le Nautilus remonta à la surface des flots. Je me précipitai sur la plate-forme. À trois milles dans le sud se dessinait la vague silhouette de Péluse. Un torrent nous avait portés d’une mer à l’autre. Mais ce tunnel, facile à descendre, devait être impraticable à remonter.
 
@@ -5367,19 +4564,7 @@ La pensée me vint alors que si Ned Land avait choisi ces parages pour effectuer
 
 Le lendemain, 16 février, nous quittions ce bassin qui, entre Rhodes et Alexandrie, compte des profondeurs de trois mille mètres, et le Nautilus passant au large de Cerigo, abandonnait l’archipel grec, après avoir doublé le cap Matapan.
 
-
-
-
-
-CHAPITRE VII
-
-
-
-LA MÉDITERRANÉE EN QUARANTE-HUIT HEURES.
-
-
-
-
+CHAPITRE VII: LA MÉDITERRANÉE EN QUARANTE-HUIT HEURES.%%%%%h2.
 
 La Méditerranée, la mer bleue par excellence, la « grande mer » des Hébreux, la « mer » des Grecs, le « mare nostrum » des Romains, bordée d’orangers, d’aloès, de cactus, de pins maritimes, embaumée du parfum des myrtes, encadrée de rudes montagnes, saturée d’un air pur et transparent, mais incessamment travaillée par les feux de la terre, est un véritable champ de bataille où Neptune et Pluton se disputent encore l’empire du monde. C’est là, sur ses rivages et sur ses eaux, dit Michelet, que l’homme se retrempe dans l’un des plus puissants climats du globe.
 
@@ -5467,19 +4652,7 @@ Là existent deux courants : un courant supérieur, depuis longtemps reconnu, qu
 
 Le temple d’Hercule. Fait exact, en effet. C’est de ce contre-courant que profita le Nautilus. Il s’avança rapidement par l’étroite passe. Un instant je pus entrevoir les admirables ruines du temple d’Hercule enfoui, au dire de Pline et d’Avienus, avec l’île basse qui le supportait, et quelques minutes plus tard nous flottions sur les flots de l’Atlantique.
 
-
-
-
-
-CHAPITRE VIII
-
-
-
-LA BAIE DE VIGO.
-
-
-
-
+CHAPITRE VIII: LA BAIE DE VIGO.%%%%%h2.
 
 L’Atlantique ! Vaste étendue d’eau dont la superficie couvre vingt-cinq millions de milles carrés, longue de neuf mille milles sur une largeur moyenne de deux mille sept cents. Importante mer presque ignorée des anciens, sauf peut-être des Carthaginois, ces Hollandais de l’antiquité, qui dans leurs pérégrinations commerciales suivaient les côtes ouest de l’Europe et de l’Afrique ! Océan dont les rivages aux sinuosités parallèles embrassent un périmètre immense, arrosé par les plus grands fleuves du monde, le Saint-Laurent, le Mississipi, l’Amazone, la Plata, l’Orénoque, le Niger, le Sénégal, l’Elbe, la Loire, le Rhin, qui lui apportent les eaux des pays les plus civilisés et des contrées les plus sauvages ! Magnifique plaine, incessamment sillonnée par les navires de toutes les nations, abritée sous tous les pavillons du monde, et que terminent ces deux pointes terribles, redoutées des navigateurs, le cap Horn et le cap des Tempêtes !
 
@@ -5631,19 +4804,7 @@ Le capitaine Nemo s’arrêta sur ces dernières paroles, regrettant peut-être 
 
 Et je compris alors à qui étaient destinés ces millions expédiés par le capitaine Nemo, lorsque le Nautilus naviguait dans les eaux de la Crète insurgée !
 
-
-
-
-
-CHAPITRE IX
-
-
-
-UN CONTINENT DISPARU.
-
-
-
-
+CHAPITRE IX: UN CONTINENT DISPARU.%%%%%h2.
 
 Le lendemain matin, 19 février, je vis entrer le Canadien dans ma chambre. J’attendais sa visite. Il avait l’air très-désappointé.
 
@@ -5779,19 +4940,7 @@ En ce moment, la lune apparut un instant à travers la masse des eaux et jeta qu
 
 Nous descendîmes rapidement la montagne. La forêt minérale une fois dépassée, j’aperçus le fanal du Nautilus qui brillait comme une étoile. Le capitaine marcha droit à lui, et nous étions rentrés à bord au moment où les premières teintes de l’aube blanchissaient la surface de l’Océan.
 
-
-
-
-
-CHAPITRE X
-
-
-
-LES HOUILLÈRES SOUS-MARINES.
-
-
-
-
+CHAPITRE X: LES HOUILLÈRES SOUS-MARINES.%%%%%h2.
 
 Le lendemain, 20 février, je me réveillais fort tard. Les fatigues de la nuit avaient prolongé mon sommeil jusqu’à onze heures. Je m’habillai promptement. J’avais hâte de connaître la direction du Nautilus. Les instruments m’indiquèrent qu’il courait toujours vers le sud avec une vitesse de vingt milles à l’heure par une profondeur de cent mètres.
 
@@ -5953,19 +5102,7 @@ Cependant, le capitaine Nemo ne donna aucun ordre. Voulait-il attendre la nuit e
 
 Quoi qu’il en soit, le lendemain, le Nautilus, ayant quitté son port d’attache, naviguait au large de toute terre, et à quelques mètres au-dessous des flots de l’Atlantique.
 
-
-
-
-
-CHAPITRE XI
-
-
-
-LA MER DE SARGASSES.
-
-
-
-
+CHAPITRE XI: LA MER DE SARGASSES.%%%%%h2.
 
 La direction du Nautilus ne s’était pas modifiée. Tout espoir de revenir vers les mers européennes devait donc être momentanément rejeté. Le capitaine Nemo maintenait le cap vers le sud. Où nous entraînait-il ? Je n’osais l’imaginer.
 
@@ -6065,19 +5202,7 @@ Je n’avais pas encore eu le temps de comprendre pourquoi le capitaine me faisa
 
 Son hélice embrayée sur un signal du capitaine, ses plans dressés verticalement, le Nautilus, emporté comme un ballon dans les airs, s’enlevait avec une rapidité foudroyante. Il coupait la masse des eaux avec un frémissement sonore. Aucun détail n’était visible. En quatre minutes, il avait franchi les quatre lieues qui le séparaient de la surface de l’Océan, et, après avoir émergé comme un poisson volant, il retombait en faisant jaillir les flots à une prodigieuse hauteur.
 
-
-
-
-
-CHAPITRE XII
-
-
-
-CACHALOTS ET BALEINES.
-
-
-
-
+CHAPITRE XII: CACHALOTS ET BALEINES.%%%%%h2.
 
 Pendant la nuit du 13 au 14 mars, le Nautilus reprit sa direction vers le sud. Je pensais qu’à la hauteur du cap Horn, il mettrait le cap à l’ouest afin de rallier les mers du Pacifique et d’achever son tour du monde. Il n’en fit rien et continua de remonter vers les régions australes. Où voulait-il donc aller ? Au pôle ? C’était insensé. Je commençai à croire que les témérités du capitaine justifiaient suffisamment les appréhensions de Ned Land.
 
@@ -6337,19 +5462,7 @@ Je le goûtai et je fus de son avis. C’était donc pour nous une réserve util
 
 De ce jour-là, je remarquai avec inquiétude que les dispositions de Ned Land envers le capitaine Nemo devenaient de plus en plus mauvaises, et je résolus de surveiller de près les faits et gestes du Canadien.
 
-
-
-
-
-CHAPITRE XIII
-
-
-
-LA BANQUISE.
-
-
-
-
+CHAPITRE XIII: LA BANQUISE.%%%%%h2.
 
 Le Nautilus avait repris son imperturbable direction vers le sud. Il suivait le cinquantième méridien avec une vitesse considérable. Voulait-il donc atteindre le pôle ? Je ne le pensais pas, car jusqu’ici toutes les tentatives pour s’élever jusqu’à ce point du globe avaient échoué. La saison, d’ailleurs, était déjà fort avancée, puisque le 13 mars des terres antarctiques correspond au 13 septembre des régions boréales, qui commence la période équinoxiale.
 
@@ -6545,19 +5658,7 @@ Enfin, à six heures du matin, ce jour mémorable du 19 mars, la porte du salon 
 
 Le capitaine Nemo parut. « La mer libre ! » me dit-il.
 
-
-
-
-
-CHAPITRE XIV
-
-
-
-LE PÔLE SUD.
-
-
-
-
+CHAPITRE XIV: LE PÔLE SUD.%%%%%h2.
 
 Je me précipitai vers la plate-forme. Oui ! La mer libre. À peine quelques glaçons épars, des icebergs mobiles ; au loin une mer étendue ; un monde d’oiseaux dans les airs, et des myriades de poissons sous ces eaux qui, suivant les fonds, variaient du bleu intense au vert olive. Le thermomètre marquait trois degrés centigrades au-dessus de zéro. C’était comme un printemps relatif enfermé derrière cette banquise, dont les masses éloignées se profilaient sur l’horizon du nord.
 
@@ -6749,19 +5850,7 @@ Et ce disant, le capitaine Nemo déploya un pavillon noir, portant un N d’or �
 
 « Adieu, soleil ! » s’écria-t-il.
 
-
-
-
-
-CHAPITRE XV
-
-
-
-ACCIDENT OU INCIDENT ?
-
-
-
-
+CHAPITRE XV: ACCIDENT OU INCIDENT ?%%%%%h2.
 
 Le lendemain, 22 mars, à six heures du matin, les préparatifs de départ furent commencés. Les dernières lueurs du crépuscule se fondaient dans la nuit. Le froid était vif. Les constellations resplendissaient avec une surprenante intensité. Au zénith brillait cette admirable Croix du Sud, l’étoile polaire des régions antarctiques.
 
@@ -6953,19 +6042,7 @@ En ce moment, le capitaine entra dans le salon. J’allai à lui.
 
 — Oui. »
 
-
-
-
-
-CHAPITRE XVI
-
-
-
-FAUTE D’AIR.
-
-
-
-
+CHAPITRE XVI: FAUTE D’AIR.%%%%%h2.
 
 Ainsi, autour du Nautilus, au-dessus, au-dessous, un impénétrable mur de glace. Nous étions prisonniers de la banquise ! Le Canadien avait frappé une table de son formidable poing. Conseil se taisait. Je regardai le capitaine. Sa figure avait repris son impassibilité habituelle. Il s’était croisé les bras. Il réfléchissait. Le Nautilus ne bougeait plus.
 
@@ -7147,19 +6224,7 @@ Peut-être ! En tout cas, le Nautilus allait le tenter. Je sentis, en effet, qu�
 
 Le panneau fut ouvert, on pourrait dire arraché, et l’air pur s’introduisit à flots dans toutes les parties du Nautilus.
 
-
-
-
-
-CHAPITRE XVII
-
-
-
-DU CAP HORN À L’AMAZONE.
-
-
-
-
+CHAPITRE XVII: DU CAP HORN À L’AMAZONE.%%%%%h2.
 
 Comment étais-je sur la plate-forme, je ne saurais le dire. Peut-être le Canadien m’y avait-il transporté. Mais je respirais, je humais l’air vivifiant de la mer. Mes deux compagnons s’enivraient près de moi de ces fraîches molécules. Les malheureux, trop longtemps privés de nourriture, ne peuvent se jeter inconsidérément sur les premiers aliments qu’on leur présente. Nous, au contraire, nous n’avions pas à nous modérer, nous pouvions aspirer à pleins poumons les atomes de cette atmosphère, et c’était la brise, la brise elle-même qui nous versait cette voluptueuse ivresse !
 
@@ -7301,19 +6366,7 @@ On prit ainsi plusieurs cacouannes, larges d’un mètre, qui pesaient deux cent
 
 Cette pêche termina notre séjour sur les parages de l’Amazone, et, la nuit venue, le Nautilus regagna la haute mer.
 
-
-
-
-
-CHAPITRE XVIII
-
-
-
-LES POULPES.
-
-
-
-
+CHAPITRE XVIII: LES POULPES.%%%%%h2.
 
 Pendant quelques jours, le Nautilus s’écarta constamment de la côte américaine. Il ne voulait pas, évidemment, fréquenter les flots du golfe du Mexique ou de la mer des Antilles. Cependant, l’eau n’eût pas manqué sous sa quille, puisque la profondeur moyenne de ces mers est de dix-huit cents mètres ; mais, probablement ces parages, semés d’îles et sillonnés de steamers, ne convenaient pas au capitaine Nemo.
 
@@ -7533,19 +6586,7 @@ Ce combat avait duré un quart d’heure. Les monstres vaincus, mutilés, frapp�
 
 Le capitaine Nemo, rouge de sang, immobile près du fanal, regardait la mer qui avait englouti l’un de ses compagnons, et de grosses larmes coulaient de ses yeux.
 
-
-
-
-
-CHAPITRE XIX
-
-
-
-LE GULF-STREAM.
-
-
-
-
+CHAPITRE XIX: LE GULF-STREAM.%%%%%h2.
 
 Cette terrible scène du 20 avril, aucun de nous ne pourra jamais l’oublier. Je l’ai écrite sous l’impression d’une émotion violente. Depuis, j’en ai revu le récit. Je l’ai lu à Conseil et au Canadien. Ils l’ont trouvé exact comme fait, mais insuffisant comme effet. Pour peindre de pareils tableaux, il faudrait la plume du plus illustre de nos poètes, l’auteur des Travailleurs de la Mer.
 
@@ -7705,19 +6746,7 @@ Le Nautilus descendait toujours. Je pensais qu’il retrouverait le calme à une
 
 Mais là, quelle tranquillité, quel silence, quel milieu paisible ! Qui eût dit qu’un ouragan terrible se déchaînait alors à la surface de cet Océan ?
 
-
-
-
-
-CHAPITRE XX
-
-
-
-PAR 47° 24′ DE LATITUDE ET 17° 28′ DE LONGITUDE.
-
-
-
-
+CHAPITRE XX: PAR 47° 24′ DE LATITUDE ET 17° 28′ DE LONGITUDE.%%%%%h2.
 
 À la suite de cette tempête, nous avions été rejetés dans l’est. Tout espoir de s’évader sur les atterrages de New York ou du Saint-Laurent s’évanouissait. Le pauvre Ned, désespéré, s’isola comme le capitaine Nemo. Conseil et moi, nous ne nous quittions plus.
 
@@ -7827,19 +6856,7 @@ Je ne savais que penser, quand, près de moi, j’entendis le capitaine Nemo dir
 
 « Le Vengeur ! » m’écriai-je. — Oui ! monsieur. Le Vengeur ! Un beau nom ! » murmura le capitaine Nemo en se croisant les bras.
 
-
-
-
-
-CHAPITRE XXI
-
-
-
-UNE HÉCATOMBE.
-
-
-
-
+CHAPITRE XXI: UNE HÉCATOMBE.%%%%%h2.
 
 Cette façon de dire, l’imprévu de cette scène, cet historique du navire patriote froidement raconté d’abord, puis l’émotion avec laquelle l’étrange personnage avait prononcé ses dernières paroles, ce nom de Vengeur, dont la signification ne pouvait m’échapper, tout se réunissait pour frapper profondément mon esprit. Mes regards ne quittaient plus le capitaine. Lui, les mains tendues vers la mer, considérait d’un œil ardent la glorieuse épave. Peut-être ne devais-je jamais savoir qui il était, d’où il venait, où il allait, mais je voyais de plus en plus l’homme se dégager du savant. Ce n’était pas une misanthropie commune qui avait enfermé dans les flancs du Nautilus le capitaine Nemo et ses compagnons, mais une haine monstrueuse ou sublime que le temps ne pouvait affaiblir.
 
@@ -8021,19 +7038,7 @@ Je me retournai vers le capitaine Nemo. Ce terrible justicier, véritable archan
 
 Sur le panneau du fond, au-dessous des portraits de ses héros, je vis le portrait d’une femme jeune encore et de deux petits enfants. Le capitaine Nemo les regarda pendant quelques instants, leur tendit les bras, et, s’agenouillant, il fondit en sanglots.
 
-
-
-
-
-CHAPITRE XXII
-
-
-
-LES DERNIÈRES PAROLES DU CAPITAINE NEMO.
-
-
-
-
+CHAPITRE XXII: LES DERNIÈRES PAROLES DU CAPITAINE NEMO.%%%%%h2.
 
 Les panneaux s’étaient refermés sur cette vision effrayante, mais la lumière n’avait pas été rendue au salon. À l’intérieur du Nautilus, ce n’étaient que ténèbres et silence. Il quittait ce lieu de désolation, à cent pieds sous les eaux, avec une rapidité prodigieuse. Où allait-il ? Au nord ou au sud ? Où fuyait cet homme après cette horrible représaille ?
 
@@ -8165,19 +7170,7 @@ Ma tête porta sur une membrure de fer, et, sous ce choc violent, je perdis conn
 
 J’étais couché dans la cabane d’un pêcheur.
 
-
-
-
-
-CHAPITRE XXIII
-
-
-
-CONCLUSION.
-
-
-
-
+CHAPITRE XXIII: CONCLUSION.%%%%%h2.
 
 Voici la conclusion de ce voyage sous les mers. Ce qui se passa pendant cette nuit, comment le canot échappa au formidable remous du Maelstrom, comment Ned Land, Conseil et moi, nous sortîmes du gouffre, je ne saurai le dire. Mais quand je revins à moi, j’étais couché dans la cabane d’un pêcheur des îles Loffoden. Mes deux compagnons, sains et saufs étaient près de moi et me pressaient les mains. Nous nous embrassâmes avec effusion.
 
@@ -8190,175 +7183,3 @@ Me croira-t-on ? Je ne sais. Peu importe, après tout. Ce que je puis affirmer m
 Mais qu’est devenu le Nautilus ? A-t-il résisté aux étreintes du Maelstrom ? Le capitaine Nemo vit-il encore ? Poursuit-il sous l’Océan ses effrayantes représailles, ou s’est-il arrêté devant cette dernière hécatombe ? Les flots apporteront-ils un jour ce manuscrit qui renferme toute l’histoire de sa vie ? Saurai-je enfin le nom de cet homme ? Le vaisseau disparu nous dira-t-il, par sa nationalité, la nationalité du capitaine Nemo ?
 
 Je l’espère. J’espère également que son puissant appareil a vaincu la mer dans son gouffre le plus terrible, et que le Nautilus a survécu là où tant de navires ont péri ! S’il en est ainsi, si le capitaine Nemo habite toujours cet Océan, sa patrie d’adoption, puisse la haine s’apaiser dans ce cœur farouche ! Que la contemplation de tant de merveilles éteigne en lui l’esprit de vengeance ! Que le justicier s’efface, que le savant continue la paisible exploration des mers ! Si sa destinée est étrange, elle est sublime aussi. Ne l’ai-je pas compris par moi-même ? N’ai-je pas vécu dix mois de cette existence extra-naturelle ? Aussi, à cette demande posée, il y a six mille ans, par l’Écclésiaste : « Qui a jamais pu sonder les profondeurs de l’abîme ? » deux hommes entre tous les hommes ont le droit de répondre maintenant. Le capitaine Nemo et moi.
-
-
-
-
-
-fin de la seconde partie.
-
-
-
-
-
-À propos de cette édition électronique
-
-
-Ce livre électronique est issu de la bibliothèque numérique Wikisource[1]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
-
-Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[2] ou, à votre convenance, celles de la licence GNU FDL[3].
-
-Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[4].
-
-Les contributeurs suivants ont permis la réalisation de ce livre :
-
-VonTasha
-
-VIGNERON
-
-Bzhqc
-
-ThomasV
-
-*j*jac
-
-Hsarrazin
-
-Labé
-
-Phe
-
-LecteurBionique
-
-Acélan
-
-Toto256
-
-Eclecticology
-
-DomRagusa
-
-Cantons-de-l'Est
-
-Yann
-
-Berichard
-
-Marc
-
-Guillaumelandry
-
-Aristoi
-
-Fredjalabert
-
-Cenico
-
-Susannah Dingley
-
-Froisois
-
-Zyephyrus
-
-Lujan
-
-Zaran
-
-Jérôme
-
-Shaihulud
-
-Codex
-
-Nimbus3d
-
-Enmerkar
-
-Library Guy
-
-Candalua
-
-Barsetti46
-
-Hector
-
-Archimatth
-
-Vincent.vaquin
-
-Laurent Jerry
-
-Pikinez
-
-Simon Peter Hughes
-
-Faager
-
-EVula
-
-Mym~frwikisource
-
-Artanisen
-
-Jahl de Vautban
-
-Le ciel est par dessus le toit
-
-Tambuccoriel
-
-Crocovius
-
-Raymonde Lanthier
-
-Caton
-
-El Verdugo
-
-BeatrixBelibaste
-
-VirguloMane
-
-Maltaper
-
-NicoRay
-
-Peter17
-
-Wuyouyuan
-
-LadyInGrey
-
-Yzelf
-
-BigonL
-
-Dudenw
-
-Sheiden
-
-Viticulum
-
-LBE
-
-Dencey
-
-
-
-
-
-* * *
-
-
-
-↑ http://fr.wikisource.org
-
-↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
-
-↑ http://www.gnu.org/copyleft/fdl.html
-
-↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
-
-
-
-
-
