@@ -7,7 +7,7 @@
 		columns: (1fr, 1fr, 1fr),
 		align: (left, center + top, right),
 		[], [#counter(page).display("1")], [
-		#text(font: "Roboto", weight: "medium", size: 8pt)[#link("https://github.com/yue-dongchen/LibreBitexts")[#sym.copyright LibreBitexts]\ ]
+		#text(font: "Roboto", weight: "medium", size: 8pt)[#link("https://yue-dongchen.github.io/LibreBitexts/")[#sym.copyright LibreBitexts]\ ]
 	#text(14pt)[#ccicon("cc-by-nc-shield/4.0", link:true)]
 	])
 ])
@@ -124,13 +124,17 @@
 
 #parallel[
 	Ce fait, extrêmement grave en lui-même, eût peut-être été oublié comme tant d’autres, si, trois semaines après, il ne se fût reproduit dans des conditions identiques. Seulement, grâce à la nationalité du navire victime de ce nouvel abordage, grâce à la réputation de la Compagnie à laquelle ce navire appartenait, l’événement eut un retentissement immense.
-
-Personne n’ignore le nom du célèbre armateur anglais Cunard. Cet intelligent industriel fonda, en 1840, un service postal entre Liverpool et Halifax, avec trois navires en bois et à roues d’une force de quatre cents chevaux, et d’une jauge de onze cent soixante-deux tonneaux. Huit ans après, le matériel de la Compagnie s’accroissait de quatre navires de six cent cinquante chevaux et de dix-huit cent vingt tonnes, et, deux ans plus tard, de deux autres bâtiments supérieurs en puissance et en tonnage. En 1853, la compagnie Cunard, dont le privilège pour le transport des dépêches venait d’être renouvelé, ajouta successivement à son matériel l’Arabia, le Persia, le China, le Scotia, le Java, le Russia, tous navires de première marche, et les plus vastes qui, après le Great-Eastern, eussent jamais sillonné les mers. Ainsi donc, en 1867, la Compagnie possédait douze navires, dont huit à roues et quatre à hélices.
-
-Si je donne ces détails très succincts, c’est afin que chacun sache bien quelle est l’importance de cette compagnie de transports maritimes, connue du monde entier pour son intelligente gestion. Nulle entreprise de navigation transocéanienne n’a été conduite avec plus d’habileté ; nulle affaire n’a été couronnée de plus de succès. Depuis vingt-six ans, les navires Cunard ont traversé deux mille fois l’Atlantique, et jamais un voyage n’a été manqué, jamais un retard n’a eu lieu, jamais ni une lettre, ni un homme, ni un bâtiment n’ont été perdus. Aussi, les passagers choisissent-ils encore, malgré la concurrence puissante que lui fait la France, la ligne Cunard de préférence à toute autre, ainsi qu’il appert d’un relevé fait sur les documents officiels des dernières années. Ceci dit, personne ne s’étonnera du retentissement que provoqua l’accident arrivé à l’un de ses plus beaux steamers.
 ][
 	This fact, so grave in itself, might perhaps have been forgotten like many others, if, three weeks after, it had not been re-enacted under similar circumstances. But, thanks to the nationality of the victim of the shock, thanks to the reputation of the company to which the vessel belonged, the circumstance became extensively circulated.
 ]
+
+#parallel[
+	Personne n’ignore le nom du célèbre armateur anglais Cunard. Cet intelligent industriel fonda, en 1840, un service postal entre Liverpool et Halifax, avec trois navires en bois et à roues d’une force de quatre cents chevaux, et d’une jauge de onze cent soixante-deux tonneaux. Huit ans après, le matériel de la Compagnie s’accroissait de quatre navires de six cent cinquante chevaux et de dix-huit cent vingt tonnes, et, deux ans plus tard, de deux autres bâtiments supérieurs en puissance et en tonnage. En 1853, la compagnie Cunard, dont le privilège pour le transport des dépêches venait d’être renouvelé, ajouta successivement à son matériel l’Arabia, le Persia, le China, le Scotia, le Java, le Russia, tous navires de première marche, et les plus vastes qui, après le Great-Eastern, eussent jamais sillonné les mers. Ainsi donc, en 1867, la Compagnie possédait douze navires, dont huit à roues et quatre à hélices.
+][]
+
+#parallel[
+	Si je donne ces détails très succincts, c’est afin que chacun sache bien quelle est l’importance de cette compagnie de transports maritimes, connue du monde entier pour son intelligente gestion. Nulle entreprise de navigation transocéanienne n’a été conduite avec plus d’habileté ; nulle affaire n’a été couronnée de plus de succès. Depuis vingt-six ans, les navires Cunard ont traversé deux mille fois l’Atlantique, et jamais un voyage n’a été manqué, jamais un retard n’a eu lieu, jamais ni une lettre, ni un homme, ni un bâtiment n’ont été perdus. Aussi, les passagers choisissent-ils encore, malgré la concurrence puissante que lui fait la France, la ligne Cunard de préférence à toute autre, ainsi qu’il appert d’un relevé fait sur les documents officiels des dernières années. Ceci dit, personne ne s’étonnera du retentissement que provoqua l’accident arrivé à l’un de ses plus beaux steamers.
+][]
 
 #parallel[
 	Seulement, grâce à la nationalité du navire victime de ce nouvel abordage, grâce à la réputation de la Compagnie à laquelle ce navire appartenait, l’événement eut un retentissement immense.
