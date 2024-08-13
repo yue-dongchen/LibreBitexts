@@ -5,6 +5,10 @@
 		columns: (1fr, 1fr),
 		gutter: 11pt,
 		left,
-		right
+		if right != [] [
+			#right
+		] else [
+			#rect(radius: (rest: 5pt))[#emph[Omission by the translator]]
+		]
 	)
 }
