@@ -137,12 +137,6 @@
 ][]
 
 #parallel[
-	Seulement, grâce à la nationalité du navire victime de ce nouvel abordage, grâce à la réputation de la Compagnie à laquelle ce navire appartenait, l’événement eut un retentissement immense.
-][
-	But, thanks to the nationality of the victim of the shock, thanks to the reputation of the company to which the vessel belonged, the circumstance became extensively circulated.
-]
-
-#parallel[
 	Le 13 avril 1867, la mer étant belle, la brise maniable, le Scotia se trouvait par 15° 12′ de longitude et 45° 37′ de latitude. Il marchait avec une vitesse de treize nœuds quarante-trois centièmes sous la poussée de ses mille chevaux-vapeur. Ses roues battaient la mer avec une régularité parfaite. Son tirant d’eau était alors de six mètres soixante-dix centimètres, et son déplacement de six mille six cent vingt-quatre mètres cubes.
 ][
 	The 13th of April, 1867, the sea being beautiful, the breeze favorable, the Scotia, of the Cunard Company's line, found herself in 15° 12′ long. and 45° 37′ lat. She was going at the speed of thirteen knots and a half.
