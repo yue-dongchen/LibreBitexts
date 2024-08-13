@@ -173,7 +173,7 @@
 ]
 
 #parallel[
-	Les ingénieurs procédèrent à la visite du Scotia Tel était ce dernier fait, qui eut pour résultat de passionner à nouveau l’opinion publique. Depuis ce moment, en effet, les sinistres maritimes qui n’avaient pas de cause déterminée furent mis sur le compte du monstre. Ce fantastique animal endossa la responsabilité de tous ces naufrages, dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas, le chiffre des navires à vapeur ou à voiles, supposés perdus corps et biens par suite d’absence de nouvelles, ne s’élève pas à moins de deux cents !
+	Tel était ce dernier fait, qui eut pour résultat de passionner à nouveau l’opinion publique. Depuis ce moment, en effet, les sinistres maritimes qui n’avaient pas de cause déterminée furent mis sur le compte du monstre. Ce fantastique animal endossa la responsabilité de tous ces naufrages, dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas, le chiffre des navires à vapeur ou à voiles, supposés perdus corps et biens par suite d’absence de nouvelles, ne s’élève pas à moins de deux cents !
 ][
 	Such was the last fact, which resulted in exciting once more the torrent of public opinion. From this moment all unlucky casualties which could not be otherwise accounted for were put down to the monster. Upon this imaginary creature rested the responsibility of all these shipwrecks, which unfortunately were considerable; for of three thousand ships whose loss was annually recorded at Lloyds', the number of sailing and steam ships supposed to be totally lost, from the absence of all news, amounted to not less than two hundred.
 ]
