@@ -1,0 +1,7 @@
+title: Acknowledgements
+---
+body:
+
+Thank you to Sergei Averkiev for developing the ["Lingtrain Alignment Studio"](https://github.com/averkij/a-studio), a GUI NLP program.
+
+The beautiful PDF typesetting is made possible by the [Typst project](https://typst.app/).
