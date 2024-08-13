@@ -181,7 +181,7 @@
 #parallel[
 	Or, ce fut le « monstre » qui, justement ou injustement, fut accusé de leur disparition, et, grâce à lui, les communications entre les divers continents devenant de plus en plus dangereuses, le public se déclara et demanda catégoriquement que les mers fussent enfin débarrassées et à tout prix de ce formidable cétacé.
 ][
-	Now, it was the "monster" who, justly or unjustly, was accused of their disappearance, and, thanks to it, communication between the different continents became more and more dangerous.
+	Now, it was the "monster" who, justly or unjustly, was accused of their disappearance, and, thanks to it, communication between the different continents became more and more dangerous. The public demanded peremptorily that the seas should at any price be relieved from this formidable cetacean.
 ]
 
 #rect[
