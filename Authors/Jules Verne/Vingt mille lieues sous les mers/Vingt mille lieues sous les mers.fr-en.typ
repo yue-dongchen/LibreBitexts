@@ -7,15 +7,15 @@
 		columns: (1fr, 1fr, 1fr),
 		align: (left, center + top, right),
 		[], [#counter(page).display("1")], [
-		#text(font: "Roboto", weight: "medium", size: 8pt)[#link("https://github.com/yue-dongchen/LibreBitext")[#sym.copyright LibreBitext]\ ]
+		#text(font: "Roboto", weight: "medium", size: 8pt)[#link("https://github.com/yue-dongchen/LibreBitexts")[#sym.copyright LibreBitexts]\ ]
 	#text(14pt)[#ccicon("cc-by-nc-shield/4.0", link:true)]
 	])
 ])
 
 #parallel[
-	= Vingt Mille Lieues sous les mers
+	#emph[Vingt Mille Lieues sous les mers]
 ][
-	= Twenty Thousand Leagues Under the Sea
+	#emph[Twenty Thousand Leagues Under the Sea]
 ]
 
 #parallel[
@@ -27,9 +27,9 @@
 ]
 
 #parallel[
-	== Chapitre premier: un écueil fuyant
+	= Chapitre premier: un écueil fuyant
 ][
-	== Chapter I: A Shifting Reef
+	= Chapter I: A Shifting Reef
 ]
 
 #parallel[
@@ -187,5 +187,5 @@ Si je donne ces détails très succincts, c’est afin que chacun sache bien que
 ]
 
 #rect[
-	This PDF is a work of the LibreBitext project. You are free to download, redistribute and use it in any manner, pursuant to the terms of the Creative Commons Attribution-NonCommercial 4.0 licence.
+	This PDF is a work of the LibreBitexts project. You are free to download, redistribute and use it in any manner, pursuant to the terms of the Creative Commons Attribution-NonCommercial 4.0 licence.
 ]
