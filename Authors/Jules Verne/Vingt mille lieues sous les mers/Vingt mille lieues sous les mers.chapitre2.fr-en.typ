@@ -237,7 +237,7 @@
 ]
 
 #parallel[
-	Monsieur,\ 
+	« Monsieur,\ 
 	Si vous voulez vous joindre à l’expédition de l’Abraham-Lincoln, le gouvernement de l’Union verra avec plaisir que la France soit représentée par vous dans cette entreprise. Le commandant Farragut tient une cabine à votre disposition.
 ][
 	Sir:\ 
