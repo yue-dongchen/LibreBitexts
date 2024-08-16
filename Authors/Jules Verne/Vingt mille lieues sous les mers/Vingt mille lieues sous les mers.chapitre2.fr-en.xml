@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book version="0.2">
+  <head>
+    <creationtool>Lingtrain Alignment Studio</creationtool>
+    <creationid>LINGTRAIN</creationid>
+    <creationdate>20240816T112343Z</creationdate>
+    <paragraphs>35</paragraphs>
+    <langs>
+      <lang id="from">
+        <sentences>105</sentences>
+      </lang>
+      <lang id="to">
+        <sentences>105</sentences>
+      </lang>
+    </langs>
+    <author>
+      <s lang="from"/>
+      <s lang="to"/>
+    </author>
+    <title>
+      <s lang="from"/>
+      <s lang="to"/>
+    </title>
+    <contents>
+      <s lang="from">Table of contents</s>
+      <s lang="to">Table of contents</s>
+    </contents>
+  </head>
+  <body>
+    <section type="default">
+      <header>
+        <su lang="from"/>
+        <su lang="to"/>
+      </header>
+      <p type="text" id="0">
+        <sentence id="0">
+          <su lang="from">À l’époque où ces événements se produisirent, je revenais d’une exploration scientifique entreprise dans les mauvaises terres du Nébraska, aux États-Unis.</su>
+          <su lang="to">During the period in which these developments were occurring, I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States.</su>
+        </sentence>
+        <sentence id="1">
+          <su lang="from">En ma qualité de professeur-suppléant au Muséum d’histoire naturelle de Paris, le gouvernement français m’avait joint à cette expédition.</su>
+          <su lang="to">In my capacity as Assistant Professor at the Paris Museum of Natural History, I had been attached to this expedition by the French government.</su>
+        </sentence>
+        <sentence id="2">
+          <su lang="from">Après six mois passés dans le Nébraska, chargé de précieuses collections, j’arrivai à New York vers la fin de mars.</su>
+          <su lang="to">After spending six months in Nebraska, I arrived in New York laden with valuable collections near the end of March.</su>
+        </sentence>
+        <sentence id="3">
+          <su lang="from">Mon départ pour la France était fixé aux premiers jours de mai.</su>
+          <su lang="to">My departure for France was set for early May.</su>
+        </sentence>
+        <sentence id="4">
+          <su lang="from">Je m’occupais donc, en attendant, de classer mes richesses minéralogiques, botaniques et zoologiques, quand arriva l’incident du Scotia.</su>
+          <su lang="to">In the meantime, then, I was busy classifying my mineralogical, botanical, and zoological treasures when that incident took place with the Scotia.</su>
+        </sentence>
+      </p>
+      <p type="text" id="1">
+        <sentence id="5">
+          <su lang="from">J’étais parfaitement au courant de la question à l’ordre du jour, et comment ne l’aurais-je pas été ?</su>
+          <su lang="to">I was perfectly abreast of this question, which was the big news of the day, and how could I not have been?</su>
+        </sentence>
+        <sentence id="6">
+          <su lang="from">J’avais lu et relu tous les journaux américains et européens sans être plus avancé.</su>
+          <su lang="to">I had read and reread every American and European newspaper without being any farther along.</su>
+        </sentence>
+        <sentence id="7">
+          <su lang="from">Ce mystère m’intriguait.</su>
+          <su lang="to">This mystery puzzled me.</su>
+        </sentence>
+        <sentence id="8">
+          <su lang="from">Dans l’impossibilité de me former une opinion, je flottais d’un extrême à l’autre.</su>
+          <su lang="to">Finding it impossible to form any views, I drifted from one extreme to the other.</su>
+        </sentence>
+        <sentence id="9">
+          <su lang="from">Qu’il y eut quelque chose, cela ne pouvait être douteux, et les incrédules étaient invités à mettre le doigt sur la plaie du Scotia.</su>
+          <su lang="to">Something was out there, that much was certain, and any doubting Thomas was invited to place his finger on the Scotia’s wound.</su>
+        </sentence>
+      </p>
+      <p type="text" id="2">
+        <sentence id="10">
+          <su lang="from">À mon arrivée à New York, la question brûlait.</su>
+          <su lang="to">When I arrived in New York, the question was at the boiling point.</su>
+        </sentence>
+        <sentence id="11">
+          <su lang="from">L’hypothèse de l’îlot flottant, de l’écueil insaisissable, soutenue par quelques esprits peu compétents, était absolument abandonnée.</su>
+          <su lang="to">The hypothesis of a drifting islet or an elusive reef, put forward by people not quite in their right minds, was completely eliminated.</su>
+        </sentence>
+        <sentence id="12">
+          <su lang="from">Et, en effet, à moins que cet écueil n’eût une machine dans le ventre, comment pouvait-il se déplacer avec une rapidité si prodigieuse ?</su>
+          <su lang="to">And indeed, unless this reef had an engine in its belly, how could it move about with such prodigious speed?</su>
+        </sentence>
+      </p>
+      <p type="text" id="3">
+        <sentence id="13">
+          <su lang="from">De même fut repoussée l’existence d’une coque flottante, d’une énorme épave, et toujours à cause de la rapidité du déplacement.</su>
+          <su lang="to">Also discredited was the idea of a floating hull or some other enormous wreckage, and again because of this speed of movement.</su>
+        </sentence>
+      </p>
+      <p type="text" id="4">
+        <sentence id="14">
+          <su lang="from">Restaient donc deux solutions possibles de la question, qui créaient deux clans très-distincts de partisans : d’un côté, ceux qui tenaient pour un monstre d’une force colossale ; de l’autre, ceux qui tenaient pour un bateau « sous-marin » d’une extrême puissance motrice.</su>
+          <su lang="to">So only two possible solutions to the question were left, creating two very distinct groups of supporters: on one side, those favoring a monster of colossal strength; on the other, those favoring an "underwater boat" of tremendous motor power.</su>
+        </sentence>
+      </p>
+      <p type="text" id="5">
+        <sentence id="15">
+          <su lang="from">Or, cette dernière hypothèse, admissible après tout, ne put résister aux enquêtes qui furent poursuivies dans les deux mondes.</su>
+          <su lang="to">Now then, although the latter hypothesis was completely admissible, it couldn’t stand up to inquiries conducted in both the New World and the Old.</su>
+        </sentence>
+        <sentence id="16">
+          <su lang="from">Qu’un simple particulier eût à sa disposition un tel engin mécanique, c’était peu probable.</su>
+          <su lang="to">That a private individual had such a mechanism at his disposal was less than probable.</su>
+        </sentence>
+        <sentence id="17">
+          <su lang="from">Où et quand l’eut-il fait construire, et comment aurait-il tenu cette construction secrète ?</su>
+          <su lang="to">Where and when had he built it, and how could he have built it in secret?</su>
+        </sentence>
+      </p>
+      <p type="text" id="6">
+        <sentence id="18">
+          <su lang="from">Seul, un gouvernement pouvait posséder une pareille machine destructive et, en ces temps désastreux où l’homme s’ingénie à multiplier la puissance des armes de guerre, il était possible qu’un État essayât à l’insu des autres ce formidable engin.</su>
+          <su lang="to">Only some government could own such an engine of destruction, and in these disaster-filled times, when men tax their ingenuity to build increasingly powerful aggressive weapons, it was possible that, unknown to the rest of the world, some nation could have been testing such a fearsome machine.</su>
+        </sentence>
+        <sentence id="19">
+          <su lang="from">Après les chassepots, les torpilles, après les torpilles, les béliers sous-marins, puis, — la réaction.</su>
+          <su lang="to">The Chassepot rifle led to the torpedo, and the torpedo has led to this underwater battering ram, which in turn will lead to the world putting its foot down.</su>
+        </sentence>
+        <sentence id="20">
+          <su lang="from">Du moins, je l’espère.</su>
+          <su lang="to">At least I hope it will.</su>
+        </sentence>
+      </p>
+      <p type="text" id="7">
+        <sentence id="21">
+          <su lang="from">Mais l’hypothèse d’une machine de guerre tomba encore devant la déclaration des gouvernements.</su>
+          <su lang="to">But this hypothesis of a war machine collapsed in the face of formal denials from the various governments.</su>
+        </sentence>
+        <sentence id="22">
+          <su lang="from">Comme il s’agissait là d’un intérêt public, puisque les communications transocéaniennes en souffraient, la franchise des gouvernements ne pouvait être mise en doute.</su>
+          <su lang="to">Since the public interest was at stake and transoceanic travel was suffering, the sincerity of these governments could not be doubted.</su>
+        </sentence>
+        <sentence id="23">
+          <su lang="from">D’ailleurs, comment admettre que la construction de ce bateau sous-marin eût échappé aux yeux du public ?</su>
+          <su lang="to">Besides, how could the assembly of this underwater boat have escaped public notice?</su>
+        </sentence>
+        <sentence id="24">
+          <su lang="from">Garder le secret dans ces circonstances est très-difficile pour un particulier, et certainement impossible pour un État dont tous les actes sont obstinément surveillés par les puissances rivales.</su>
+          <su lang="to">Keeping a secret under such circumstances would be difficult enough for an individual, and certainly impossible for a nation whose every move is under constant surveillance by rival powers.</su>
+        </sentence>
+      </p>
+      <p type="text" id="8">
+        <sentence id="25">
+          <su lang="from">Donc, après enquêtes faites en Angleterre, en France, en Russie, en Prusse, en Espagne, en Italie, en Amérique, voire même en Turquie, l’hypothèse d’un Monitor sous-marin fut définitivement rejetée.</su>
+          <su lang="to">So, after inquiries conducted in England, France, Russia, Prussia, Spain, Italy, America, and even Turkey, the hypothesis of an underwater Monitor was ultimately rejected.</su>
+        </sentence>
+      </p>
+      <p type="text" id="9">
+        <sentence id="26">
+          <su lang="from">Le monstre revint donc à flots, en dépit des incessantes plaisanteries dont le lardait la petite presse, et dans cette voie, les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d’une ichthyologie fantastique.</su>
+          <su lang="to">And so the monster surfaced again, despite the endless witticisms heaped on it by the popular press, and the human imagination soon got caught up in the most ridiculous ichthyological fantasies.</su>
+        </sentence>
+      </p>
+      <p type="text" id="10">
+        <sentence id="27">
+          <su lang="from">À mon arrivée à New-York, plusieurs personnes m’avaient fait l’honneur de me consulter sur le phénomène en question.</su>
+          <su lang="to">After I arrived in New York, several people did me the honor of consulting me on the phenomenon in question.</su>
+        </sentence>
+        <sentence id="28">
+          <su lang="from">J’avais publié en France un ouvrage in-quarto en deux volumes intitulé : Les Mystères des grands fonds sous-marins.</su>
+          <su lang="to">In France I had published a two-volume work, in quarto, entitled The Mysteries of the Great Ocean Depths.</su>
+        </sentence>
+        <sentence id="29">
+          <su lang="from">Ce livre, particulièrement goûté du monde savant, faisait de moi un spécialiste dans cette partie assez obscure de l’histoire naturelle.</su>
+          <su lang="to">Well received in scholarly circles, this book had established me as a specialist in this pretty obscure field of natural history.</su>
+        </sentence>
+        <sentence id="30">
+          <su lang="from">Mon avis me fut demandé.</su>
+          <su lang="to">My views were in demand.</su>
+        </sentence>
+        <sentence id="31">
+          <su lang="from">Tant que je pus nier la réalité du fait, je me renfermai dans une absolue négation.</su>
+          <su lang="to">As long as I could deny the reality of the business, I confined myself to a flat "no comment."</su>
+        </sentence>
+        <sentence id="32">
+          <su lang="from">Mais bientôt, collé au mur, je dus m’expliquer catégoriquement.</su>
+          <su lang="to">But soon, pinned to the wall, I had to explain myself straight out.</su>
+        </sentence>
+        <sentence id="33">
+          <su lang="from">Et même, « l’honorable Pierre Aronnax, professeur au Muséum de Paris », fut mis en demeure par le New-York-Herald de formuler une opinion quelconque.</su>
+          <su lang="to">And in this vein, "the honorable Pierre Aronnax, Professor at the Paris Museum," was summoned by The New York Herald to formulate his views no matter what.</su>
+        </sentence>
+      </p>
+      <p type="text" id="11">
+        <sentence id="34">
+          <su lang="from">Je m’exécutai.</su>
+          <su lang="to">I complied.</su>
+        </sentence>
+        <sentence id="35">
+          <su lang="from">Je parlai faute de pouvoir me taire.</su>
+          <su lang="to">Since I could no longer hold my tongue, I let it wag.</su>
+        </sentence>
+        <sentence id="36">
+          <su lang="from">Je discutai la question sous toutes ses faces, politiquement et scientifiquement, et je donne ici un extrait d’un article très-nourri que je publiai dans le numéro du 30 avril.</su>
+          <su lang="to">I discussed the question in its every aspect, both political and scientific, and this is an excerpt from the well-padded article I published in the issue of April 30.</su>
+        </sentence>
+      </p>
+      <p type="text" id="12">
+        <sentence id="37">
+          <su lang="from">« Ainsi donc, disais-je, après avoir examiné une à une les diverses hypothèses, toute autre supposition étant rejetée, il faut nécessairement admettre l’existence d’un animal marin d’une puissance excessive.</su>
+          <su lang="to">"Therefore," I wrote, "after examining these different hypotheses one by one, we are forced, every other supposition having been refuted, to accept the existence of an extremely powerful marine animal.</su>
+        </sentence>
+      </p>
+      <p type="text" id="13">
+        <sentence id="38">
+          <su lang="from">« Les grandes profondeurs de l’Océan nous sont totalement inconnues.</su>
+          <su lang="to">"The deepest parts of the ocean are totally unknown to us.</su>
+        </sentence>
+        <sentence id="39">
+          <su lang="from">La sonde n’a su les atteindre.</su>
+          <su lang="to">No soundings have been able to reach them.</su>
+        </sentence>
+        <sentence id="40">
+          <su lang="from">Que se passe-t-il dans ces abîmes reculés ?</su>
+          <su lang="to">What goes on in those distant depths?</su>
+        </sentence>
+        <sentence id="41">
+          <su lang="from">Quels êtres habitent et peuvent habiter à douze ou quinze milles au-dessous de la surface des eaux ?</su>
+          <su lang="to">What creatures inhabit, or could inhabit, those regions twelve or fifteen miles beneath the surface of the water?</su>
+        </sentence>
+        <sentence id="42">
+          <su lang="from">Quel est l’organisme de ces animaux ?</su>
+          <su lang="to">What is the constitution of these animals?</su>
+        </sentence>
+        <sentence id="43">
+          <su lang="from">On saurait à peine le conjecturer.</su>
+          <su lang="to">It’s almost beyond conjecture.</su>
+        </sentence>
+      </p>
+      <p type="text" id="14">
+        <sentence id="44">
+          <su lang="from">« Cependant, la solution du problème qui m’est soumis peut affecter la forme du dilemme.</su>
+          <su lang="to">"However, the solution to this problem submitted to me can take the form of a choice between two alternatives.</su>
+        </sentence>
+      </p>
+      <p type="text" id="15">
+        <sentence id="45">
+          <su lang="from">« Ou nous connaissons toutes les variétés d’êtres qui peuplent notre planète, ou nous ne les connaissons pas.</su>
+          <su lang="to">"Either we know every variety of creature populating our planet, or we do not.</su>
+        </sentence>
+      </p>
+      <p type="text" id="16">
+        <sentence id="46">
+          <su lang="from">« Si nous ne les connaissons pas toutes, si la nature a encore des secrets pour nous en ichthyologie, rien de plus acceptable que d’admettre l’existence de poissons ou de cétacés, d’espèces ou même de genres nouveaux, d’une organisation essentiellement « fondrière », qui habitent les couches inaccessibles à la sonde, et qu’un événement quelconque, une fantaisie, un caprice, si l’on veut, ramène à de longs intervalles vers le niveau supérieur de l’Océan.</su>
+          <su lang="to">"If we do not know every one of them, if nature still keeps ichthyological secrets from us, nothing is more admissible than to accept the existence of fish or cetaceans of new species or even new genera, animals with a basically ‘cast-iron’ constitution that inhabit strata beyond the reach of our soundings, and which some development or other, an urge or a whim if you prefer, can bring to the upper level of the ocean for long intervals.</su>
+        </sentence>
+      </p>
+      <p type="text" id="17">
+        <sentence id="47">
+          <su lang="from">« Si, au contraire, nous connaissons toutes les espèces vivantes, il faut nécessairement chercher l’animal en question parmi les êtres marins déjà catalogués, et dans ce cas, je serai disposé à admettre l’existence d’un Narwal géant.</su>
+          <su lang="to">"If, on the other hand, we do know every living species, we must look for the animal in question among those marine creatures already cataloged, and in this event I would be inclined to accept the existence of a giant narwhale.</su>
+        </sentence>
+      </p>
+      <p type="text" id="18">
+        <sentence id="48">
+          <su lang="from">« Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds.</su>
+          <su lang="to">"The common narwhale, or sea unicorn, often reaches a length of sixty feet.</su>
+        </sentence>
+        <sentence id="49">
+          <su lang="from">Quintuplez, décuplez même cette dimension, donnez à ce cétacé une force proportionnelle à sa taille, accroissez ses armes offensives, et vous obtenez l’animal voulu.</su>
+          <su lang="to">Increase its dimensions fivefold or even tenfold, then give this cetacean a strength in proportion to its size while enlarging its offensive weapons, and you have the animal we’re looking for.</su>
+        </sentence>
+        <sentence id="50">
+          <su lang="from">Il aura les proportions déterminées par les Officiers du Shannon, l’instrument exigé par la perforation du Scotia, et la puissance nécessaire pour entamer la coque d’un steamer.</su>
+          <su lang="to">It would have the proportions determined by the officers of the Shannon, the instrument needed to perforate the Scotia, and the power to pierce a steamer’s hull.</su>
+        </sentence>
+      </p>
+      <p type="text" id="19">
+        <sentence id="51">
+          <su lang="from">« En effet, le narwal est armé d’une sorte d’épée d’ivoire, d’une hallebarde, suivant l’expression de certains naturalistes.</su>
+          <su lang="to">"In essence, the narwhale is armed with a sort of ivory sword, or lance, as certain naturalists have expressed it.</su>
+        </sentence>
+        <sentence id="52">
+          <su lang="from">C’est une dent principale qui a la dureté de l’acier.</su>
+          <su lang="to">It’s a king-sized tooth as hard as steel.</su>
+        </sentence>
+        <sentence id="53">
+          <su lang="from">On a trouvé quelques-unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès.</su>
+          <su lang="to">Some of these teeth have been found buried in the bodies of baleen whales, which the narwhale attacks with invariable success.</su>
+        </sentence>
+        <sentence id="54">
+          <su lang="from">D’autres ont été arrachées, non sans peine, de carènes de vaisseaux qu’elles avaient percées d’outre en outre, comme un foret perce un tonneau.</su>
+          <su lang="to">Others have been wrenched, not without difficulty, from the undersides of vessels that narwhales have pierced clean through, as a gimlet pierces a wine barrel.</su>
+        </sentence>
+        <sentence id="55">
+          <su lang="from">Le musée de la Faculté de médecine de Paris possède une de ces défenses longue de deux mètres vingt-cinq centimètres, et large de quarante-huit centimètres à sa base !</su>
+          <su lang="to">The museum at the Faculty of Medicine in Paris owns one of these tusks with a length of 2.25 meters and a width at its base of forty-eight centimeters!</su>
+        </sentence>
+      </p>
+      <p type="text" id="20">
+        <sentence id="56">
+          <su lang="from">« Eh bien ! supposez l’arme dix fois plus forte, et l’animal dix fois plus puissant, lancez-le avec une rapidité de vingt milles à l’heure, multipliez sa masse par sa vitesse, et vous obtenez un choc capable de produire la catastrophe demandée.</su>
+          <su lang="to">"All right then! Imagine this weapon to be ten times stronger and the animal ten times more powerful, launch it at a speed of twenty miles per hour, multiply its mass times its velocity, and you get just the collision we need to cause the specified catastrophe.</su>
+        </sentence>
+      </p>
+      <p type="text" id="21">
+        <sentence id="57">
+          <su lang="from">« Donc, jusqu’à plus amples informations, j’opinerais pour une licorne de mer, de dimensions colossales, armée, non plus d’une hallebarde, mais d’un véritable éperon comme les frégates cuirassées ou les « rams » de guerre, dont elle aurait à la fois la masse et la puissance motrice.</su>
+          <su lang="to">"So, until information becomes more abundant, I plump for a sea unicorn of colossal dimensions, no longer armed with a mere lance but with an actual spur, like ironclad frigates or those warships called ‘rams,’ whose mass and motor power it would possess simultaneously.</su>
+        </sentence>
+      </p>
+      <p type="text" id="22">
+        <sentence id="58">
+          <su lang="from">« Ainsi s’expliquerait ce phénomène inexplicable — à moins qu’il n’y ait rien, en dépit de ce qu’on a entrevu, vu, senti et ressenti — ce qui est encore possible ! »</su>
+          <su lang="to">"This inexplicable phenomenon is thus explained away—unless it’s something else entirely, which, despite everything that has been sighted, studied, explored and experienced, is still possible!"</su>
+        </sentence>
+      </p>
+      <p type="text" id="23">
+        <sentence id="59">
+          <su lang="from">Ces derniers mots étaient une lâcheté de ma part ; mais je voulais jusqu’à un certain point couvrir ma dignité de professeur, et ne pas trop prêter à rire aux Américains, qui rient bien, quand ils rient.</su>
+          <su lang="to">These last words were cowardly of me; but as far as I could, I wanted to protect my professorial dignity and not lay myself open to laughter from the Americans, who when they do laugh, laugh raucously.</su>
+        </sentence>
+        <sentence id="60">
+          <su lang="from">Je me réservais une échappatoire.</su>
+          <su lang="to">I had left myself a loophole.</su>
+        </sentence>
+        <sentence id="61">
+          <su lang="from">Au fond, j’admettais l’existence du « monstre ».</su>
+          <su lang="to">Yet deep down, I had accepted the existence of "the monster."</su>
+        </sentence>
+      </p>
+      <p type="text" id="24">
+        <sentence id="62">
+          <su lang="from">Mon article fut chaudement discuté, ce qui lui valut un grand retentissement.</su>
+          <su lang="to">My article was hotly debated, causing a fine old uproar.</su>
+        </sentence>
+        <sentence id="63">
+          <su lang="from">Il rallia un certain nombre de partisans.</su>
+          <su lang="to">It rallied a number of supporters.</su>
+        </sentence>
+        <sentence id="64">
+          <su lang="from">La solution qu’il proposait, d’ailleurs, laissait libre carrière à l’imagination.</su>
+          <su lang="to">Moreover, the solution it proposed allowed for free play of the imagination.</su>
+        </sentence>
+        <sentence id="65">
+          <su lang="from">L’esprit humain se plaît à ces conceptions grandioses d’êtres surnaturels.</su>
+          <su lang="to">The human mind enjoys impressive visions of unearthly creatures.</su>
+        </sentence>
+        <sentence id="66">
+          <su lang="from">Or la mer est précisément leur meilleur véhicule, le seul milieu où ces géants, — près desquels les animaux terrestres, éléphants ou rhinocéros, ne sont que des nains — puissent se produire et se développer.</su>
+          <su lang="to">Now then, the sea is precisely their best medium, the only setting suitable for the breeding and growing of such giants—next to which such land animals as elephants or rhinoceroses are mere dwarves.</su>
+        </sentence>
+        <sentence id="67">
+          <su lang="from">Les masses liquides transportent les plus grandes espèces connues de mammifères, et peut-être recèlent-elles des mollusques d’une incomparable taille, des crustacés effrayants à contempler, tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !</su>
+          <su lang="to">The liquid masses support the largest known species of mammals and perhaps conceal mollusks of incomparable size or crustaceans too frightful to contemplate, such as 100-meter lobsters or crabs weighing 200 metric tons!</su>
+        </sentence>
+        <sentence id="68">
+          <su lang="from">Pourquoi non ?</su>
+          <su lang="to">Why not?</su>
+        </sentence>
+        <sentence id="69">
+          <su lang="from">Autrefois, les animaux terrestres, contemporains des époques géologiques, les quadrupèdes, les quadrumanes, les reptiles, les oiseaux étaient construits sur des gabarits gigantesques.</su>
+          <su lang="to">Formerly, in prehistoric days, land animals (quadrupeds, apes, reptiles, birds) were built on a gigantic scale.</su>
+        </sentence>
+        <sentence id="70">
+          <su lang="from">Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu.</su>
+          <su lang="to">Our Creator cast them using a colossal mold that time has gradually made smaller.</su>
+        </sentence>
+        <sentence id="71">
+          <su lang="from">Pourquoi la mer, dans ses profondeurs ignorées, n’aurait-elle pas gardé ces vastes échantillons de la vie d’un autre âge, elle qui ne se modifie jamais. alors que le noyau terrestre change presque incessamment ?</su>
+          <su lang="to">With its untold depths, couldn’t the sea keep alive such huge specimens of life from another age, this sea that never changes while the land masses undergo almost continuous alteration?</su>
+        </sentence>
+        <sentence id="72">
+          <su lang="from">Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques, dont les années sont des siècles, et les siècles des millénaires ?</su>
+          <su lang="to">Couldn’t the heart of the ocean hide the last-remaining varieties of these titanic species, for whom years are centuries and centuries millennia?</su>
+        </sentence>
+      </p>
+      <p type="text" id="25">
+        <sentence id="73">
+          <su lang="from">Mais je me laisse entraîner à des rêveries qu’il ne m’appartient plus d’entretenir !</su>
+          <su lang="to">But I mustn’t let these fantasies run away with me!</su>
+        </sentence>
+        <sentence id="74">
+          <su lang="from">Trêve à ces chimères que le temps a changées pour moi en réalités terribles.</su>
+          <su lang="to">Enough of these fairy tales that time has changed for me into harsh realities.</su>
+        </sentence>
+        <sentence id="75">
+          <su lang="from">Je le répète, l’opinion se fit alors sur la nature du phénomène, et le public admit sans conteste l’existence d’un être prodigieux qui n’avait rien de commun avec les fabuleux serpents de mer.</su>
+          <su lang="to">I repeat: opinion had crystallized as to the nature of this phenomenon, and the public accepted without argument the existence of a prodigious creature that had nothing in common with the fabled sea serpent.</su>
+        </sentence>
+      </p>
+      <p type="text" id="26">
+        <sentence id="76">
+          <su lang="from">Mais si les uns ne virent là qu’un problème purement scientifique à résoudre, les autres, plus positifs, surtout en Amérique et en Angleterre, furent d’avis de purger l’Océan de ce redoutable monstre, afin de rassurer les communications transocéaniennes.</su>
+          <su lang="to">Yet if some saw it purely as a scientific problem to be solved, more practical people, especially in America and England, were determined to purge the ocean of this daunting monster, to insure the safety of transoceanic travel.</su>
+        </sentence>
+        <sentence id="77">
+          <su lang="from">Les journaux industriels et commerciaux traitèrent la question principalement à ce point de vue.</su>
+          <su lang="to">The industrial and commercial newspapers dealt with the question chiefly from this viewpoint.</su>
+        </sentence>
+        <sentence id="78">
+          <su lang="from">La Shipping and Mercantile Gazette, le Lloyd, le Paquebot, la Revue maritime et coloniale, toutes les feuilles dévouées aux Compagnies d’assurances qui menaçaient d’élever le taux de leurs primes, furent unanimes sur ce point.</su>
+          <su lang="to">The Shipping &amp; Mercantile Gazette, the Lloyd’s List, France’s Packetboat and Maritime &amp; Colonial Review, all the rags devoted to insurance companies—who threatened to raise their premium rates—were unanimous on this point.</su>
+        </sentence>
+      </p>
+      <p type="text" id="27">
+        <sentence id="79">
+          <su lang="from">L’opinion publique s’étant prononcée, les États de l’Union se déclarèrent les premiers.</su>
+          <su lang="to">Public opinion being pronounced, the States of the Union were the first in the field.</su>
+        </sentence>
+        <sentence id="80">
+          <su lang="from">On fit à New York les préparatifs d’une expédition destinée à poursuivre le narwal.</su>
+          <su lang="to">In New York preparations were under way for an expedition designed to chase this narwhale.</su>
+        </sentence>
+        <sentence id="81">
+          <su lang="from">Une frégate de grande marche, l’Abraham-Lincoln, se mit en mesure de prendre la mer au plus tôt.</su>
+          <su lang="to">A high-speed frigate, the Abraham Lincoln, was fitted out for putting to sea as soon as possible.</su>
+        </sentence>
+        <sentence id="82">
+          <su lang="from">Les arsenaux furent ouverts au commandant Farragut, qui pressa activement l’armement de sa frégate.</su>
+          <su lang="to">The naval arsenals were unlocked for Commander Farragut, who pressed energetically forward with the arming of his frigate.</su>
+        </sentence>
+      </p>
+      <p type="text" id="28">
+        <sentence id="83">
+          <su lang="from">La frégate l’Abraham Lincoln Précisément, et ainsi que cela arrive toujours, du moment que l’on se fut décidé à poursuivre le monstre, le monstre ne reparut plus.</su>
+          <su lang="to">But, as it always happens, just when a decision had been made to chase the monster, the monster put in no further appearances.</su>
+        </sentence>
+        <sentence id="84">
+          <su lang="from">Pendant deux mois, personne n’en entendit parler.</su>
+          <su lang="to">For two months nobody heard a word about it.</su>
+        </sentence>
+        <sentence id="85">
+          <su lang="from">Aucun navire ne le rencontra.</su>
+          <su lang="to">Not a single ship encountered it.</su>
+        </sentence>
+        <sentence id="86">
+          <su lang="from">Il semblait que cette Licorne eût connaissance des complots qui se tramaient contre elle.</su>
+          <su lang="to">Apparently the unicorn had gotten wise to these plots being woven around it.</su>
+        </sentence>
+        <sentence id="87">
+          <su lang="from">On en avait tant causé, et même par le câble transatlantique !</su>
+          <su lang="to">People were constantly babbling about the creature, even via the Atlantic Cable!</su>
+        </sentence>
+        <sentence id="88">
+          <su lang="from">Aussi les plaisants prétendaient-ils que cette fine mouche avait arrêté au passage quelque télégramme dont elle faisait maintenant son profit.</su>
+          <su lang="to">Accordingly, the wags claimed that this slippery rascal had waylaid some passing telegram and was making the most of it.</su>
+        </sentence>
+      </p>
+      <p type="text" id="29">
+        <sentence id="89">
+          <su lang="from">Donc, la frégate armée pour une campagne lointaine et pourvue de formidables engins de pêche, on ne savait plus où la diriger.</su>
+          <su lang="to">So the frigate was equipped for a far-off voyage and armed with fearsome fishing gear, but nobody knew where to steer it.</su>
+        </sentence>
+        <sentence id="90">
+          <su lang="from">Et l’impatience allait croissant, quand, le 2 juillet, on apprit qu’un steamer de la ligne de San-Francisco de Californie à Shangaï avait revu l’animal, trois semaines auparavant, dans les mers septentrionales du Pacifique.</su>
+          <su lang="to">And impatience grew until, on June 2, word came that the Tampico, a steamer on the San Francisco line sailing from California to Shanghai, had sighted the animal again, three weeks before in the northerly seas of the Pacific.</su>
+        </sentence>
+      </p>
+      <p type="text" id="30">
+        <sentence id="91">
+          <su lang="from">L’émotion causée par cette nouvelle fut extrême.</su>
+          <su lang="to">This news caused intense excitement.</su>
+        </sentence>
+        <sentence id="92">
+          <su lang="from">On n’accorda pas vingt-quatre heures de répit au commandant Farragut.</su>
+          <su lang="to">Not even a 24-hour breather was granted to Commander Farragut.</su>
+        </sentence>
+        <sentence id="93">
+          <su lang="from">Ses vivres étaient embarqués.</su>
+          <su lang="to">His provisions were loaded on board.</su>
+        </sentence>
+        <sentence id="94">
+          <su lang="from">Ses soutes regorgeaient de charbon.</su>
+          <su lang="to">His coal bunkers were overflowing.</su>
+        </sentence>
+        <sentence id="95">
+          <su lang="from">Pas un homme ne manquait à son rôle d’équipage.</su>
+          <su lang="to">Not a crewman was missing from his post.</su>
+        </sentence>
+        <sentence id="96">
+          <su lang="from">Il n’avait qu’à allumer ses fourneaux, à chauffer, à démarrer !</su>
+          <su lang="to">To cast off, he needed only to fire and stoke his furnaces!</su>
+        </sentence>
+        <sentence id="97">
+          <su lang="from">On ne lui eût pas pardonné une demi-journée de retard !</su>
+          <su lang="to">Half a day’s delay would have been unforgivable!</su>
+        </sentence>
+        <sentence id="98">
+          <su lang="from">D’ailleurs, le commandant Farragut ne demandait qu’à partir.</su>
+          <su lang="to">But Commander Farragut wanted nothing more than to go forth.</su>
+        </sentence>
+      </p>
+      <p type="text" id="31">
+        <sentence id="99">
+          <su lang="from">Trois heures avant que l’Abraham-Lincoln ne quittât la pier de Brooklyn, je reçus une lettre libellée en ces termes :</su>
+          <su lang="to">I received a letter three hours before the Abraham Lincoln left its Brooklyn pier; the letter read as follows:</su>
+        </sentence>
+      </p>
+      <p type="text" id="32">
+        <sentence id="100">
+          <su lang="from">Monsieur Aronnax, professeur au Muséum de Paris, Fifth Avenue hotel. New York.</su>
+          <su lang="to">Pierre Aronnax Professor at the Paris Museum Fifth Avenue Hotel New York Sir:</su>
+        </sentence>
+      </p>
+      <p type="text" id="33">
+        <sentence id="101">
+          <su lang="from">Monsieur, Si vous voulez vous joindre à l’expédition de l’Abraham-Lincoln, le gouvernement de l’Union verra avec plaisir que la France soit représentée par vous dans cette entreprise.</su>
+          <su lang="to">If you would like to join the expedition on the Abraham Lincoln, the government of the Union will be pleased to regard you as France’s representative in this undertaking.</su>
+        </sentence>
+        <sentence id="102">
+          <su lang="from">Le commandant Farragut tient une cabine à votre disposition.</su>
+          <su lang="to">Commander Farragut has a cabin at your disposal.</su>
+        </sentence>
+      </p>
+      <p type="text" id="34">
+        <sentence id="103">
+          <su lang="from">Très-cordialement, votre J.-B. Hobson, Secrétaire de la marine. »</su>
+          <su lang="to">Very cordially yours, J. B. HOBSON, Secretary of the Navy.</su>
+        </sentence>
+      </p>
+    </section>
+  </body>
+</book>
